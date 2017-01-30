@@ -1,0 +1,389 @@
+{
+    "labeljson": [
+        {
+            "versiontxtcls": "Version",
+            "langtitle": "Allez, bougez Canada",
+            "home": "Accueil",
+            "landingtxtcls": "Faites une pause posture. Trois petites minutes par jour pour votre santé.",
+            "exercisetxtcls": "Exercices",
+            "nexttxtcls": "Suivant",
+            "playalltxtcls": "Tous les exercices",
+            "viewstills": "Images fixes",
+            "viewvideo": "Voir la vidéo",
+            "tracktxtcls": "Suivi",
+            "kybtxtcls": "Votre dos",
+            "factxtcls": "Trouver un chiro",
+            "blogtxtcls": "Blogue",
+            "aboutchirotxtcls": "Propos de Chiro",
+            "kybtitle": "Votre dos",
+            "viewbodytxtcls": "Voir Carte du corps",
+            "bodymaptxtcls": "Carte du corps",
+            "ortxtcls": "Ou",
+            "vbmtxtcls": "Sélectionnez une zone en apprendre davantage sur les problèmes liés à la sauvegarde communes:",
+            "headtxtcls": "Maux de tete",
+            "necktxtcls": "Douleurs au cou",
+            "shouldertxtcls": "Douleurs à l’épaule",
+            "midtxtcls": "Douleurs au milieu et au haut du dos",
+            "lowertxtcls": "Douleurs lombaires",
+            "hiptxtcls": "Douleurs ᾶ la hanche",
+            "introtitle": "Allez, bougez",
+            "infotitle": "Allez, bougez",
+            "skiptxtcls": "Sauter",
+            "introimg": "images/hls_1m_-00001.png",
+            "introvideo": "http://d17xqzktjz7y87.cloudfront.net/French/Intro+Video+French.mp4",
+            "infoimg": "images/hls_1m_-00001.png",
+            "infovideo": "http://d17xqzktjz7y87.cloudfront.net/French/Intro+Video+French.mp4",
+            "abouttitle": "La chiropratique",
+			"aboutmainid": "<p>On compte plus de 8 400 chiropraticiens agréés au Canada. Pour devenir docteur en chiropratique (DC), chacun d’eux a reçu une formation théorique et pratique rigoureuse qui répond à des normes nationales et a réussi un examen d’agrément. Les chiropraticiens ont reçu une formation intensive pour prévenir, évaluer, diagnostiquer et traiter les problèmes musculosquelettiques (MS). Le traitement qu’ils vous recommandent contribue à soulager la douleur et à rétablir les fonctions du corps sans chirurgie ni médicament. Leurs méthodes : techniques de mobilisation et de thérapie des tissus mous, exercices, information, appareils (ultrasons ou laser) et réadaptation. Les chiropraticiens sont également formés pour vous donner des conseils en matière de nutrition et de stratégies de prévention des blessures. Actuellement, plus de 4,5 millions de Canadiens consultent en chiropratique tous les ans. <strong>Chaque personne qui aspire à un état de santé et à une qualité de vie optimaux devrait compter un chiropraticien ou une chiropraticienne dans son équipe de soins</strong>.</p><br><p><strong>Associations chiropratiques provinciales</strong></p><p>L’Association chiropratique canadienne compte dix divisions qui correspondent aux associations provinciales. Ces associations défendent les intérêts des patients à l’échelle régionale. En vertu de la loi, chaque province possède un organisme de réglementation responsable de l’agrément des praticiens, de l’établissement de normes de pratique et de la protection du public.</p><br><p>Pour en savoir plus sur la chiropratique à l’échelle provinciale, cliquez sur les liens ci-dessous : </p><ul><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.albertachiro.com/\">Alberta College and Association of Chiropractors</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.chiropratique.com/\">Association des Chiropraticiens du Québec</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.bcchiro.com/\">British Columbia Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://knowyourback.ca/\">Council of the Nova Scotia College of Chiropractors</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.manitobachiropractors.ca/\">Manitoba Chiropractors Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.nbchiropractic.ca/\">New Brunswick Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.nlchiropractic.ca/\">Newfoundland and Labrador Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.chiropractic.on.ca/\">Ontario Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.peichiropractic.ca/\">Prince Edward Island Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.saskchiropractic.ca/\">The Chiropractors\u2019 Association of Saskatchewan</a></li></ul>",
+            "backtxtcls": "Précédent",
+            "adultplayallimg": "images/hls_1m_-00001.png",
+            "adultplayallvideo": "http://d17xqzktjz7y87.cloudfront.net/French/Full+Length+Video-FR-ADULT.mp4",
+            "youthplayallimg": "images/hls_1m_-00001.png",
+            "youthplayallvideo": "http://d17xqzktjz7y87.cloudfront.net/French/Full+Length+Video-FRYOUTH.mp4",
+            "taptologtxtcls": "Toucher pour enregistrer la séance d'exercices:",
+            "remindertxtcls": "Rappel:",
+            "setremtxtcls": "Rappel",
+            "addedittxtcls": "Ajouter/Modifier",
+            "workouttxtcls": "Enregistrer et partager la séance d’exercices!",
+            "logexittxtcls": "Enregistrer et quitter",
+            "canceltxtcls": "Annuler",
+            "addtxtcls": "Ajouter",
+            "savetxtcls": "Enregistrer",
+            "repeattxtcls": "Répéter",
+            "delremtxtcls": "Annuler le rappel",
+            "facebooksharingmsg": "Je me tiens le dos plus droit et je me sens vraiment bien grâce à l’appli Allez bougez Canada ! Améliorez votre posture en quelques minutes par jour. Découvrez comment",
+            "twittersharingmsg": "J’améliore ma posture en quelques minutes par jour grâce à #AllezBougezCanada #posturebreak",
+            "emailsharingmsg": "Bonjour ! J’ai commencé à améliorer ma posture grâce à l’appli gratuite  Allez bougez Canada. Je me sens vraiment bien ! C’est une série de 12 exercices qui prennent juste quelques minutes par jour. Tu aimerais sûrement. Télécharge vite l’appli:",
+            "blogsurl": "http://www.chiropractic.ca/fr/feed/?cat=1",
+            "usecurtxtcls": "Trouver un chiro près de chez moi",
+            "searchtxtcls": "Recherche",
+            "posttxtcls": "Code postal",
+            "firsttxtcls": "Prénom",
+            "lasttxtcls": "Nom de famille",
+            "citytxtcls": "ville",
+            "provincetxtcls": "Province",
+            "seltxtcls": "Choisir",
+            "albertatxtcls": "Alberta",
+            "britishtxtcls": "British Columbia",
+            "manitobatxtcls": "Manitoba",
+            "brunswicktxtcls": "New Brunswick",
+            "foundlandtxtcls": "Newfoundland and Labrador",
+            "novatxtcls": "Nova Scotia",
+            "ontariotxtcls": "Ontario",
+            "princetxtcls": "Prince Edward Island",
+            "quebecatxtcls": "Quebeca",
+            "saskatchewanatxtcls": "Saskatchewan",
+            "languageval": "fr",
+            "within": "50",
+            "mobile": "1",
+            "suntxtcls": "Dimanche",
+            "montxtcls": "Lundi",
+            "tuetxtcls": "Mardi",
+            "wedtxtcls": "Mercredi",
+            "thutxtcls": "Jeudi",
+            "fritxtcls": "Vendredi",
+            "sattxtcls": "Samedi",
+            "findsearchUrl": "http://chiropractic.ca/wp-content/themes/cca/locator.php",
+            "biourl": "http://chiropractic.ca/ccadata/getchrio.php?id=",
+            "graphswipe": "&#171; Faites de comparer l'année précédente",
+            "settingstitle": "Paramètres",
+            "defaultxtcls": "Default",
+            "langtxtcls": "Langues",
+            "aboutapptxtcls": "A propos de l'application",
+            "privacytxt": "Politique de Confidentialite",
+            "privacylink": "http://www.chiropractic.ca/fr/politique-de-confidentialite-appli-allez-bougez-canada",
+            "faqstxt": "FAQ d’aide",
+            "faqslink": "http://www.chiropractic.ca/fr/allez-bougez-canada-faq-daide",
+            "publishonfbcls": "Publier sur Facebook",
+            "twitternowcls": "Tweeter maintenant",
+            "emailtofrncls": "Envoyer à un ami",
+            "appwebsite": "http://www.straightenupcanada.ca",
+            "remindermsg": "Rappel : C'est le temps de bouger!",
+            "graphtitle": "Suivi mensuel",
+            "paramtrmsg": "Entrez au moins un paramètre de recherche.",
+            "poptitle": "Allez bougez!",
+            "donebuttontxt": "Terminé",
+            "netalertmsg": "Allez bougez nécessite une connexion active à Internet. Vérifiez votre les réglages devotre connexion et essayez de nouveau.",
+            "netpoptitle": "No Internet Connection!",
+            "geoalertmsg": "Cette fonction nécessite l’accès à la localisation. Activez la fonction de localisation dansles paramètres de votre appareil.",
+            "foradulttxtcls": "Adultes",
+            "foryouthtxtcls": "Jeunes",
+			"continuetxtcls": "Continuer",
+			"continueimgcls": "images/seasonal-bg-1.jpg"
+        }
+    ],
+    "knowjson": [
+        {
+            "id": "7",
+            "name": "MAUX DE TÊTE",
+            "description": "<p>Les maux de tête peuvent être liés à des problèmes cervicaux de sources multiples :</p><br><ul class=\"back-points\"><li>Tensions musculaires</li><li>Baisse de mobilité des articulations vertébrales</li><li>Tensions causées par une longue période à l’ordinateur ou en position assise</li></ul><p>Si vous souffrez de fréquents maux de tête, si vous prenez souvent des analgésiques pour soulager vos maux de tête, si vos maux de tête vous semblent différents ou s’ils s’aggravent, consultez un chiropraticien.</p>"
+        },
+        {
+            "id": "8",
+            "name": "DOULEURS AU COU",
+            "description": "<p>Les douleurs au cou peuvent avoir plusieurs causes :</p><br><ul class=\"back-points\"><li>Tensions posturales</li><li>Baisse de mobilité des articulations vertébrales</li><li>Blessure ou accident</li></ul><p>Lorsque les articulations de votre cou ne bougent pas normalement, vous pouvez aussi ressentir des douleurs, des picotements ou des engourdissements dans les bras et les mains. Si les douleurs cervicales restreignent vos activités, consultez un chiropraticien pour un examen.</p>"
+        },
+        {
+            "id": "9",
+            "name": "DOULEURS À L’ÉPAULE",
+            "description": "<p>Les douleurs à l’épaule peuvent avoir plusieurs causes :</p><br><ul class=\"back-points\"><li>Douleur irradiée provenant du cou</li><li>Blessure à la coiffe des rotateurs (musculaire ou tendineuse)</li><li>Entorse ligamentaire</li></ul><p>Surmenage des muscles de l’épaule Il arrive qu’une douleur à l’épaule parte de l’omoplate et irradie jusqu’au haut du bras. Un chiropraticien peut diagnostiquer les causes de vos douleurs et vous recommander un programme de traitement qui vous aidera à récupérer.</p>"
+        },
+        {
+            "id": "10",
+            "name": "DOULEURS AU MILIEU ET AU HAUT DU DOS",
+            "description": "<p>Les douleurs au dos et entre les épaules peuvent avoir plusieurs causes :</p><br><ul class=\"back-points\"><li>Posture</li><li>Soulèvement d’une charge</li><li>Baisse de mobilité des articulations vertébrales</li><li>Une baisse de mobilité des articulations des côtes ou des raideurs musculaires dans la région des côtes peuvent provoquer des douleurs à la poitrine lorsque vous inspirez profondément.</li></ul><p>Un chiropraticien peut vous aider à rétablir le bon fonctionnement de vos muscles, ligaments et articulations.</p>"
+        },
+        {
+            "id": "11",
+            "name": "DOULEURS LOMBAIRES",
+            "description": "<p>Les douleurs lombaires peuvent avoir plusieurs causes :</p><br><ul class=\"back-points\"><li>Entorse musculaire</li><li>Baisse de mobilité des articulations vertébrales ou pelviennes (articulations sacro-iliaques)</li><li>Soulèvement d’une charge</li><li>Lésion discale</li><li>Faiblesse des principaux muscles qui soutiennent la région lombaire</li><li>Il arrive que des douleurs lombaires provoquent des douleurs, des picotements ou des engourdissements dans les jambes et les pieds.</li></ul><p>Si vos douleurs lombaires durent plus que quelques jours, consultez un chiropraticien pour un examen.</p>"
+        },
+        {
+            "id": "12",
+            "name": "DOULEURS À LA HANCHE",
+            "description": "<p>Les douleurs à la hanche peuvent avoir plusieurs causes :</p><br><ul class=\"back-points\"><li>Baisse de mobilité de l’articulation de la hanche</li><li>Baisse de mobilité dans la région pelvienne</li><li>Entorse ou surmenage musculaire dans la région de la hanche ou du bassin</li></ul><p>Les douleurs à la hanche peuvent irradier aux jambes, au côté de la hanche et à l’aine. Il arrive également qu’une irritation de la bourse sur le côté de la hanche dégénère en bursite. Un chiropraticien peut diagnostiquer la source de vos douleurs et vous recommander un traitement personnalisé.</p>"
+        }
+    ],
+    "languagejson": [
+        {
+            "id": "0",
+            "name": "English"
+        },
+        {
+            "id": "1",
+            "name": "French"
+        }
+    ],
+    "excercisesadultjson": [
+        {
+            "id": 1,
+            "name": "For Adult",
+            "data": [
+                {
+                    "id": "27",
+                    "title": "Redressement",
+					"defaul_img": "images/content/EX_1_StraightenUp1a.jpg",
+                    "content": "<h2>Redressement</h2><ul class=\"core\"><li>Le dos droit, la tête haute et les pieds collés, alignez bien vos oreilles, épaules, hanches, genoux et chevilles.</li><li>Rentrez le nombril vers la colonne.</li><li>Vous êtes maintenant en position de redressement. Vous reprendrez cette position à la fin de chaque exercice. </li></ul>",
+                    "holder_image": "images/exec/adult-ex1.png",
+                    "picture_img": "images/content/straighten-up-final.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+1a+Straighten+Up+(French).mp4"
+                },
+                {
+                    "id": "28",
+                    "title": "Flexion en étoile",
+					"defaul_img": "images/content/EX_2_BendingStar1a.jpg",
+                    "content": "<h2>Flexion en étoile</h2><ul class=\"core\"><li>À partir de la position de redressement, écartez les pieds de la largeur des épaules et élevez les bras de façon latérale.</li><li>Inspirez lentement, puis penchez la colonne d’un côté en amenant un bras par-dessus la tête. </li><li>Revenez lentement à la position initiale. </li><li>Répétez ce mouvement deux fois de chaque côté. </li></ul>",
+                    "holder_image": "images/exec/adult-ex2.png",
+                    "picture_img": "images/content/bending-star-final.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+2a+Bending+Star+(French).mp4"
+                },
+                {
+                    "id": "29",
+                    "title": "Rotation en étoile",
+					"defaul_img": "images/content/EX_3_TwistingStar1a.jpg",
+                    "content": "<h2>Rotation en étoile</h2><ul class=\"core\"><li>À partir de la position de redressement, écartez les pieds de la largeur des épaules et élevez les bras de façon latérale. </li><li>Rentrez le nombril vers la colonne. </li><li>Faites une rotation de la colonne vers la gauche en tournant la tête vers la gauche de manière à suivre votre main gauche derrière vous. Maintenez la position, puis revenez lentement à la position initiale. </li><li>De l’autre côté, maintenant. Faites une rotation de la colonne vers la droite. Arrêtez lorsque vous sentez un étirement, puis revenez lentement à la position initiale. </li><li>Répétez l’exercice une fois de chaque côté. N’oubliez pas d’arrêter dès que vous sentez l’étirement. </li></ul>",
+                    "holder_image": "images/exec/adult-ex3.png",
+                    "picture_img": "images/content/twist-and-sway.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+3a+Twisting+Star+(French).mp4"
+                },
+                {
+                    "id": "30",
+                    "title": "Coude-genou croisé",
+					"defaul_img": "images/content/EX_4_CrossoverStar1a.jpg",
+                    "content": "<h2>Coude-genou croisé</h2><ul class=\"core\"><li>À partir de la position de redressement, écartez les pieds de la largeur des épaules et relevez les mains. Portez le bras gauche vers le côté opposé et élevez le genou droit de façon à ce que les deux se rejoignent. </li><li>De l’autre côté, maintenant. Poursuivez ainsi en alternance à quelques reprises. </li></ul>",
+                    "holder_image": "images/exec/adult-ex4.png",
+                    "picture_img": "images/content/crossover-star-final.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+4a+Crossover+Star+(French).mp4"
+                },
+                {
+                    "id": "31",
+                    "title": "Détente du cou",
+					"defaul_img": "images/content/EX_5_TrapOpeners1a.jpg",
+                    "content": "<h2>Trap Openers</h2><ul class=\"core\"><li>En position de redressement, inspirez profondément et relâchez la tête vers l’avant. </li><li>Gardez les épaules vers l’arrière et balancez doucement la tête d’un côté à l’autre à quelques reprises. </li><li>Relevez la tête et portez les mains à votre cou. Massez-vous délicatement l’arrière de la tête et du cou. </li><li>Laissez retomber les bras le long du corps, détendez les épaules. Effectuez de lentes rotations des épaules vers l’arrière, puis vers l’avant pendant 15 secondes.</li></ul>",
+                    "holder_image": "images/exec/adult-ex5.png",
+                    "picture_img": "images/content/trap-openers.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+5a+Trap+Openers+(French).mp4"
+                },
+                {
+                    "id": "32",
+                    "title": "Toujours plus haut",
+					"defaul_img": "images/content/EX_6_ReachfortheSky1a.jpg",
+                    "content": "<h2>Reach for the Sky</h2><ul class=\"core\"><li>À partir de la position de redressement, les bras le long du corps, écartez les pieds de la largeur des épaules. </li><li>Élevez doucement les bras latéralement au-dessus de la tête, jusqu’à ce que vos mains se rejoignent. Ramenez-les le long du corps. </li><li>Répétez l’exercice trois fois.</li></ul>",
+                    "holder_image": "images/exec/adult-ex6.png",
+                    "picture_img": "images/content/Reach-for-the-sky.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+6a+Reach+for+the+Sky+(French).mp4"
+                },
+                {
+                    "id": "33",
+                    "title": "Flexion circulaire",
+					"defaul_img": "images/content/EX_7_BendingCircles1a.jpg",
+                    "content": "<h2>Flexion circulaire</h2><ul class=\"core\"><li>À partir de la position de redressement, les coudes pliés de côté et les mains vers le haut, effectuez des rotations arrière des épaules en faisant de petits cercles avec les bras. </li><li>Penchez-vous légèrement d’un côté puis de l’autre. </li><li>Gardez le nombril bien rentré. </li><li>Faites cet exercice deux fois de chaque côté. </li></ul>",
+                    "holder_image": "images/exec/adult-ex7.png",
+                    "picture_img": "images/content/bending-circles.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+7a+Bending+Circles+(French).mp4"
+                },
+                {
+                    "id": "34",
+                    "title": "Étirement de l’épaule",
+					"defaul_img": "images/content/EX_8_ShoulderPull1a.jpg",
+                    "content": "<h2>Étirement de l’épaule</h2><ul class=\"core\"><li>En position de redressement, portez les mains derrière la tête et amenez les coudes vers l’arrière. </li><li>Rentrez le menton et pressez doucement l’arrière de la tête contre les mains en exerçant une légère résistance des mains. Comptez jusqu’à deux, puis relâchez la pression. </li><li>Allons-y, encore trois fois. </li><li>À la fin de l’exercice, laissez retomber la tête vers l’avant et massez-vous l’arrière du cou. </li><li>Ramenez les bras le long du corps.</li></ul>",
+                    "holder_image": "images/exec/adult-ex8.png",
+                    "picture_img": "images/content/shoulder-pull.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+8a+Shoulder+Pull+(French).mp4"
+                },
+                {
+                    "id": "35",
+                    "title": "Fente avant",
+					"defaul_img": "images/content/EX_9_TightRopeLunge1a.jpg",
+                    "content": "<h2>Fente avant</h2><ul class=\"core\"><li>Bien droit, les mains sur les hanches, faites un pas avant de la jambe droite et pliez lentement le genou. Vous pouvez soulever votre talon gauche du sol. Votre genou droit doit être en ligne avec votre cheville et ne jamais dépasser les orteils. </li><li>Redressez-vous et passez à l’autre jambe.</li><li>Faites un pas avant de la jambe gauche et pliez lentement le genou. Vous pouvez soulever votre talon droit du sol. Votre genou gauche doit être en ligne avec votre cheville et ne jamais dépasser les orteils. </li><li>Gardez le dos bien droit.</li></ul>",
+                    "holder_image": "images/exec/adult-ex9.png",
+                    "picture_img": "images/content/tight-rope-lunge.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+9a+Tightrope+Lunge+(French).mp4"
+                },
+                {
+                    "id": "36",
+                    "title": "Balancement latéral",
+					"defaul_img": "images/content/EX_10_TwistandSway1a.jpg",
+                    "content": "<h2>Balancement latéral</h2><ul class=\"core\"><li>À partir de la position de redressement, faites un pas de côté. Durant 15 secondes, balancez-vous doucement d’un côté à l’autre en respirant calmement et profondément. Laissez vos bras bouger librement. </li></ul>",
+                    "holder_image": "images/exec/adult-ex10.png",
+                    "picture_img": "images/content/twist-and-sway.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+10a+Twist+and+Sway+(French).mp4"
+                },
+                {
+                    "id": "37",
+                    "title": "Triangle étiré",
+					"defaul_img": "images/content/EX_11_TriangleStretch1a.jpg",
+                    "content": "<h2>Triangle étiré</h2><ul class=\"core\"><li>Prenez la position de redressement.</li><li>Faites un pas vers la droite et pliez la taille vers la droite en étirant le bras gauche au-dessus de la tête. Maintenez la position durant 10 secondes. </li><li>Redressez-vous, puis faites un pas vers la gauche et pliez la taille en étirant le bras droit au-dessus de la tête. Maintenez la position durant 10 secondes.</li></ul>",
+                    "holder_image": "images/exec/adult-ex11.png",
+                    "picture_img": "images/content/triangle-strech.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+11a+Triangle+Stretch+(French).mp4"
+                },
+                {
+                    "id": "38",
+                    "title": "Liberté totale",
+					"defaul_img": "images/content/EX_12.jpg",
+                    "content": "<h2>Liberté totale</h2><ul class=\"core\"><li>Le dernier. Un pur plaisir. On y va ?</li><li>Secouez librement tous vos membres durant 15 secondes.</li></ul>",
+                    "holder_image": "images/exec/ex12.png",
+                    "picture_img": "images/content/video-holder.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+12a+Shake+It+Out+(French).mp4"
+                }
+            ]
+        }
+    ],
+    "excercisesyouthjson": [
+        {
+            "id": 2,
+            "name": "For Youth",
+            "data": [
+                {
+                    "id": "39",
+                    "title": "Redressement",
+					"defaul_img": "images/content/EX_1_StraightenUp1b.jpg",
+                    "content": "<h2>Redressement</h2><ul class=\"core\"><li>Le dos droit, la tête haute et les pieds collés, alignez bien vos oreilles, épaules, hanches, genoux et chevilles.</li><li>Rentrez le nombril vers la colonne.</li><li>Vous êtes maintenant en position de redressement. Vous reprendrez cette position à la fin de chaque exercice. </li></ul>",
+                    "holder_image": "images/exec/kid-ex1.png",
+                    "picture_img": "images/content/straighten-up-final-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+1b+Straighten+Up+(French).mp4"
+                },
+                {
+                    "id": "40",
+                    "title": "Flexion en étoile",
+					"defaul_img": "images/content/EX_2_BendingStar1b.jpg",
+                    "content": "<h2>Flexion en étoile</h2><ul class=\"core\"><li>À partir de la position de redressement, écartez les pieds de la largeur des épaules et élevez les bras de façon latérale.</li><li>Inspirez lentement, puis penchez la colonne d’un côté en amenant un bras par-dessus la tête. </li><li>Revenez lentement à la position initiale. </li><li>Répétez ce mouvement deux fois de chaque côté. </li></ul>",
+                    "holder_image": "images/exec/kid-ex2.png",
+                    "picture_img": "images/content/bending-star-final-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+2b+Bending+Star.mp4"
+                },
+                {
+                    "id": "41",
+                    "title": "Rotation en étoile",
+					"defaul_img": "images/content/EX_3_TwistingStar1b.jpg",
+                    "content": "<h2>Rotation en étoile</h2><ul class=\"core\"><li>À partir de la position de redressement, écartez les pieds de la largeur des épaules et élevez les bras de façon latérale. </li><li>Rentrez le nombril vers la colonne. </li><li>Faites une rotation de la colonne vers la gauche en tournant la tête vers la gauche de manière à suivre votre main gauche derrière vous. Maintenez la position, puis revenez lentement à la position initiale. </li><li>De l’autre côté, maintenant. Faites une rotation de la colonne vers la droite. Arrêtez lorsque vous sentez un étirement, puis revenez lentement à la position initiale. </li><li>Répétez l’exercice une fois de chaque côté. N’oubliez pas d’arrêter dès que vous sentez l’étirement. </li></ul>",
+                    "holder_image": "images/exec/kid-ex3.png",
+                    "picture_img": "images/content/twist-and-sway-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+3b+Twisting+Star+(French).mp4"
+                },
+                {
+                    "id": "42",
+                    "title": "Coude-genou croisé",
+					"defaul_img": "images/content/EX_4_CrossoverStar1b.jpg",
+                    "content": "<h2>Coude-genou croisé</h2><ul class=\"core\"><li>À partir de la position de redressement, écartez les pieds de la largeur des épaules et relevez les mains. Portez le bras gauche vers le côté opposé et élevez le genou droit de façon à ce que les deux se rejoignent. </li><li>De l’autre côté, maintenant. Poursuivez ainsi en alternance à quelques reprises. </li></ul>",
+                    "holder_image": "images/exec/kid-ex4.png",
+                    "picture_img": "images/content/twisting-star1b.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+4b+Crossover+Star+(French).mp4"
+                },
+                {
+                    "id": "43",
+                    "title": "Détente du cou",
+					"defaul_img": "images/content/EX_5_TrapOpeners1b.jpg",
+                    "content": "<h2>Détente du cou</h2><ul class=\"core\"><li>En position de redressement, inspirez profondément et relâchez la tête vers l’avant. </li><li>Gardez les épaules vers l’arrière et balancez doucement la tête d’un côté à l’autre à quelques reprises. </li><li>Relevez la tête et portez les mains à votre cou. Massez-vous délicatement l’arrière de la tête et du cou. </li><li>Laissez retomber les bras le long du corps, détendez les épaules. Effectuez de lentes rotations des épaules vers l’arrière, puis vers l’avant pendant 15 secondes.</li></ul>",
+                    "holder_image": "images/exec/kid-ex5.png",
+                    "picture_img": "images/content/trap-openers-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+5b+Trap+Openers+(French).mp4"
+                },
+                {
+                    "id": "44",
+                    "title": "Toujours plus haut",
+					"defaul_img": "images/content/EX_6_ReachfortheSky1b.jpg",
+                    "content": "<h2>Toujours plus haut</h2><ul class=\"core\"><li>À partir de la position de redressement, les bras le long du corps, écartez les pieds de la largeur des épaules. </li><li>Élevez doucement les bras latéralement au-dessus de la tête, jusqu’à ce que vos mains se rejoignent. Ramenez-les le long du corps. </li><li>Répétez l’exercice trois fois.</li></ul>",
+                    "holder_image": "images/exec/kid-ex6.png",
+                    "picture_img": "images/content/Reach-for-the-sky-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+6b+Reach+for+the+Sky+(French).mp4"
+                },
+                {
+                    "id": "45",
+                    "title": "Flexion circulaire",
+					"defaul_img": "images/content/EX_7_BendingCircles1b.jpg",
+                    "content": "<h2>Flexion circulaire</h2><ul class=\"core\"><li>À partir de la position de redressement, les coudes pliés de côté et les mains vers le haut, effectuez des rotations arrière des épaules en faisant de petits cercles avec les bras. </li><li>Penchez-vous légèrement d’un côté puis de l’autre. </li><li>Gardez le nombril bien rentré. </li><li>Faites cet exercice deux fois de chaque côté. </li></ul>",
+                    "holder_image": "images/exec/kid-ex7.png",
+                    "picture_img": "images/content/bending-circles-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+7b+Bending+Circles+(French).mp4"
+                },
+                {
+                    "id": "46",
+                    "title": "Étirement de l’épaule",
+					"defaul_img": "images/content/EX_8_ShoulderPull1b.jpg",
+                    "content": "<h2>Étirement de l’épaule</h2><ul class=\"core\"><li>En position de redressement, portez les mains derrière la tête et amenez les coudes vers l’arrière. </li><li>Rentrez le menton et pressez doucement l’arrière de la tête contre les mains en exerçant une légère résistance des mains. Comptez jusqu’à deux, puis relâchez la pression. </li><li>Allons-y, encore trois fois. </li><li>À la fin de l’exercice, laissez retomber la tête vers l’avant et massez-vous l’arrière du cou. </li><li>Ramenez les bras le long du corps.</li></ul>",
+                    "holder_image": "images/exec/kid-ex8.png",
+                    "picture_img": "images/content/shoulder-pull-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+8b+Shoulder+Pull+(French).mp4"
+                },
+                {
+                    "id": "47",
+                    "title": "Fente avant",
+					"defaul_img": "images/content/EX_9_TightRopeLunge1b.jpg",
+                    "content": "<h2>Fente avant</h2><ul class=\"core\"><li>Bien droit, les mains sur les hanches, faites un pas avant de la jambe droite et pliez lentement le genou. Vous pouvez soulever votre talon gauche du sol. Votre genou droit doit être en ligne avec votre cheville et ne jamais dépasser les orteils. </li><li>Redressez-vous et passez à l’autre jambe.</li><li>Faites un pas avant de la jambe gauche et pliez lentement le genou. Vous pouvez soulever votre talon droit du sol. Votre genou gauche doit être en ligne avec votre cheville et ne jamais dépasser les orteils. </li><li>Gardez le dos bien droit.</li></ul>",
+                    "holder_image": "images/exec/kid-ex9.png",
+                    "picture_img": "images/content/tight-rope-lunge-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+9b+Tightrope+Lunge+(French).mp4"
+                },
+                {
+                    "id": "48",
+                    "title": "Balancement latéral",
+					"defaul_img": "images/content/EX_10_TwistandSway1b.jpg",
+                    "content": "<h2>Balancement latéral</h2><ul class=\"core\"><li>À partir de la position de redressement, faites un pas de côté. Durant 15 secondes, balancez-vous doucement d’un côté à l’autre en respirant calmement et profondément. Laissez vos bras bouger librement. </li></ul>",
+                    "holder_image": "images/exec/kid-ex10.png",
+                    "picture_img": "images/content/twist-and-sway-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+10b+Twist+and+Sway+(French).mp4"
+                },
+                {
+                    "id": "49",
+                    "title": "Triangle étiré",
+					"defaul_img": "images/content/EX_11_TriangleStretch1b.jpg",
+                    "content": "<h2>Triangle étiré</h2><ul class=\"core\"><li>Prenez la position de redressement.</li><li>Faites un pas vers la droite et pliez la taille vers la droite en étirant le bras gauche au-dessus de la tête. Maintenez la position durant 10 secondes. </li><li>Redressez-vous, puis faites un pas vers la gauche et pliez la taille en étirant le bras droit au-dessus de la tête. Maintenez la position durant 10 secondes.</li></ul>",
+                    "holder_image": "images/exec/kid-ex11.png",
+                    "picture_img": "images/content/triangle-strech-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+11b+Triangle+Stretch+(French).mp4"
+                },
+                {
+                    "id": "50",
+                    "title": "Liberté totale",
+					"defaul_img": "images/content/EX_12.jpg",
+                    "content": "<h2>Liberté totale</h2><ul class=\"core\"><li>Le dernier. Un pur plaisir. On y va ?</li><li>Secouez librement tous vos membres durant 15 secondes.</li></ul>",
+                    "holder_image": "images/exec/ex12.png",
+                    "picture_img": "images/content/video-holder.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/French/Exercise+12b+Shake+It+Out+(French).mp4"
+                }
+            ]
+        }
+    ]
+}

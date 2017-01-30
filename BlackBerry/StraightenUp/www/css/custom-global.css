@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* //======================================
+ General CSS
+ ========================================*/
+* {box-sizing:border-box; margin:0; padding:0;}
+html, body {width:100%; height:100%;}
+body {font-family:"Open Sans";}
+.left {float:left;}
+.right {float:right;}
+.clear {clear:both;}
+#more, #notification, #programs, #landpage, #newsfeed, #contact {/*background:#1c3fa8;*/ padding-top:20px;}
+.grey-dots-nav {display:inline-block; margin:0; text-indent:-99999px; vertical-align:middle; padding:16px; background:none !important; box-shadow:none; border:0;}
+.grey-dots-nav span {width:10px; height:10px; background:#9c9c9c; border-radius:50%; display:block; text-indent:-99999px; vertical-align:middle;}
+.grey-dots-nav:hover span, .grey-dots-nav.active span {background:#1c3fa8;}
+.theme-lightblue {background:#498BC9;}
+.theme-dark-yellow {background:#fbb919;}
+.theme-lightgreen {background:#89ae1b;}
+.theme-darkpink {background:#bf4790;}
+.content-innerwrap {padding:10px;}
+ul, ol {list-style:none;}
+
+
+/* ======================================
+ Common CSS
+ ========================================*/
+div[data-role="page"].splash-screen {background:#1c3fa8; padding-top:0 !important;}
+.hs-footer-wrap {background:#f5f5f5; border-top:1px solid #ddd; padding:1px 0 0; text-align:center;}
+.footer-nav-wrap {display:table; width:100%; height:100%;}
+.footer-nav-inner {display:table-cell; width:auto; text-align:center; vertical-align:top;}
+.footer-nav-inner a, .footer-nav-inner a span {color:#000; text-decoration:none;}
+.footer-nav-inner span.icon-set {display:block; width:30px; padding:0; margin:auto;}
+.footer-nav-inner span:last-child {
+    display: block;
+    font-size: 11px;
+    margin: auto;
+    padding-top: 2px;
+    width: 100%;
+    font-weight:normal;
+}
+/*#page.theme-lightblue .active span:last-child {color:#498BC9;}*/
+.ui-panel-inner a.menubar {margin:6px;}
+#panel-nav, .ui-panel-inner {height:100%; padding:0;}
+
+/* ======================================
+ Icon Sets
+ ========================================*/
+.icon-info { background:url(../images/icon-info.png) 0 0 no-repeat; width:34px; height:34px;}
+.icon-yellow-rbn {position:absolute; top:0; right:0px;}
+.icon-set {background:url(../images/icon-sprite.png) no-repeat; vertical-align:middle; width:46px; height:28px; display:inline-block; padding-right:15px;}
+.icon-set.login {background-position:-207px -114px;}
+.icon-set.star-yellow {background-position:-342px -312px;}
+.icon-set.star-blank {background-position:-342px -262px;}
+.icon-set.mytrustees {background-position:-343px -160px;}
+.icon-set.feed {background-position:-343px -113px;}
+.icon-set.fnav-boardInfo {background-position:-275px -158px;}
+.active .icon-set.fnav-boardInfo {background-position:-275px -209px;}
+.icon-set.fnav-trustees {background-position:-344px -158px;}
+.active .icon-set.fnav-trustees {background-position:-344px -209px;}
+.icon-set.fnav-catholic {background-position:-399px -158px;}
+.active .icon-set.fnav-catholic {background-position:-399px -209px;}
+.icon-set.fnav-contact {background-position:-208px -261px;}
+.active .icon-set.fnav-contact {background-position:-208px -311px;}
+.icon-set.fnav-more {background-position:-275px -258px;}
+.active .icon-set.fnav-more {background-position:-275px -308px;}
+.icon-set.fnav-listview {background-position:-20px -158px;}
+.active .icon-set.fnav-listview {background-position:-20px -209px;}
+.icon-set.fnav-day {background-position:-82px -158px;}
+.active .icon-set.fnav-day {background-position:-82px -209px;}
+.icon-set.fnav-month {background-position:-145px -158px;}
+.active .icon-set.fnav-month {background-position:-145px -209px;}
+.icon-set.fnav-year {background:none; font-size:14px; color:#909090; font-weight:bold; width:auto !important; line-height:35px;}
+.active .icon-set.fnav-year {color:#fbb919;}
+.icon-set.fnav-sync {background-position:-208px -158px;}
+.active .icon-set.fnav-sync {background-position:-208px -209px;}
+.icon-set.fnav-news {background-position:-16px -260px;}
+.active .icon-set.fnav-news {background-position:-16px -310px;}
+.icon-set.fnav-calender {background-position:-82px -260px;}
+.active .icon-set.fnav-calender {background-position:-82px -310px;}
+.icon-set.fnav-programs {background-position:-143px -260px;}
+.active .icon-set.fnav-programs {background-position:-143px -310px;}
+.icon-set.fnav-newcomers {background-position:-16px -363px;}
+.active .icon-set.fnav-newcomers {background-position:-16px -418px;}
+.icon-set.fnav-centers {background-position:-80px -363px; width:34px !important;}
+.active .icon-set.fnav-centers {background-position:-80px -418px;}
+.icon-set.fnav-parishes {background-position:-143px -363px;}
+.active .icon-set.fnav-parishes {background-position:-143px -418px;}
+.icon-set.fnav-schoolLoc {background-position:-206px -363px; width:34px !important;}
+.active .icon-set.fnav-schoolLoc {background-position:-206px -418px;}
+.icon-set.fnav-agencies {background-position:-275px -363px;}
+.active .icon-set.fnav-agencies {background-position:-275px -418px;}
+.icon-set.back {background-position:-25px -110px; padding:0; width:24px;}
+.icon-set.directory {background:url(../images/school-directory.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.calender {background:url(../images/calender.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.newcomers {background:url(../images/newcomers.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.parentInfo {background:url(../images/parent-info.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.studentInfo {background:url(../images/student-info.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.boardInfo {background:url(../images/board-info.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.social {background:url(../images/social-media.png) 0px 0px no-repeat; background-size:32px;}
+.icon-set.setting {background:url(../images/setting.png) 0px 0px no-repeat; background-size:32px;}
+#panel-nav .icon-set {padding-right:0px; width:36px;}
+#panel-nav .icon-set.star-yellow {background-position: -342px -312px;}
+#panel-nav .icon-set.star-blank {background-position: -342px -262px;}
+
+
+
+
+/* =================================================
+ Custom jquery.mobile.min.css - 15 Dec 2014
+ ====================================================*/
+a:hover, a:focus {/*background:none !important;*/ text-shadow:none !important; box-shadow:none !important;}
+.ui-btn:hover {background:none !important;}
+.ui-content {padding:0;}
+.ui-header, ui-footer,
+.ui-btn.ui-btn-active {background:none !important; box-shadow:none; text-shadow:none !important; border:0 !important; color:#fff !important;}
+#newsfeed .ui-header, #school-newsfeed .ui-header, #newsfeed-detail .ui-header, #more .ui-header, #notification .ui-header, #programs .ui-header, #landpage .ui-header, #newsfeed .ui-header, #contact .ui-header {background:#1C3FA8 !important;}
+#school-newsfeed-detail .ui-header, #trustees .ui-header, #trustees-detail .ui-header, #boardinfo .ui-header, #boardcontact .ui-header {background:#498bc9 !important;}
+#newcomers .ui-header, #news-fulldetails .ui-header {background:#89ae1b !important;}
+#search-school .ui-header, #school-directory .ui-header {background:#bf4790 !important;}
+#calender .ui-header {background:#fbb919 !important;}
+.ui-overlay-a, .ui-page-theme-a {background:none;}
+.ui-header .ui-title, .ui-footer .ui-title {width:75%; margin:auto; padding:1em 0; line-height:26px;}
+.ui-panel {width:100%; top:22px; min-height:calc(100% - 22px); padding-top:5px; background:url(../images/overlay_bg.png) repeat;}
+div[data-role="header"] h1 {height: 50px;}
+.ui-header-fixed {
+    padding-top: 10px;
+    top: -1px;
+}
+ul.fav-school-list.ui-shadow {box-shadow:none;}
+ul.fav-school-list li.ui-li-static {border:0px; border-radius:0; padding-left:36px; padding-right:0;background:#ececec;}
+#search-school {height:100%;}
+div[data-role="popup"] .ui-content {padding:1em; font-size:13px; text-align:center;}
+div[data-role="popup"] .ui-content .ui-btn {font-size:13px;}
+div[data-role="popup"] h1.ui-title {font-size:18px; padding:10px 0; line-height:normal; height:auto;}
+div[data-role="popup"] h3.ui-title {line-height:24px;}
+
+
+/* =================================================
+ Added - 16 Jan 2015
+ ====================================================*/
+.btn-swipe-back {position:fixed; z-index:1000; left:0; top:48%; width:20px; height:40px; padding: 10px 10px 10px 2px;}
+.btn-swipe-next {position:fixed; z-index:1000; right:0; top:48%; width:20px; height:40px; padding: 10px 2px 10px 10px;}
+#filterType .ui-select {width:92%; margin:12px auto 0;}
+.ui-select .ui-btn>span:not(.ui-li-count), .ui-listview>li>a.ui-btn {text-align:left; color:#5a5a5a; font-size:14px; font-weight:normal;}
+.ui-select a.ui-btn {border:1px solid #999; border-radius:0; background:none; box-shadow:none;}
+.ui-select a.ui-btn.ui-btn-active {border:1px solid #999 !important;}
+#schoolnewsfilter-listbox-popup,
+#newsfilter-listbox-popup {left:13px !important; top:112px !important; margin:auto; width:92%; max-width:294px !important;}
+#newsfilter-listbox,
+#schoolnewsfilter-listbox {box-shadow:none; border-radius:0px; border:1px solid #999;}
+.ui-listview>li>a.ui-btn,
+.ui-listview>li>a.ui-btn:hover {border-color:#999; color:#5a5a5a !important;}
+.ui-listview>li>a.ui-btn-active {border-top:1px solid #999 !important;}
+.ui-listview>li:first-child>a.ui-btn-active {border-top:0px !important;}
+.ui-content .ui-listview, .ui-panel-inner>.ui-listview {margin:0;}
+
+
+.NetworkStatus , .calenderhidecls{
+    display:none;
+}
+
+#myContent .ui-listview-filter, #yourfavouritesid, .advanced-searchschoolcls {
+    display: none;
+}
+
+/* =================================================
+ Added - 18 Feb 2015
+ ====================================================*/
+.ui-filterable .ui-input-search.ui-input-has-clear {padding-right:0; background:#fff; text-shadow:none; border-color:#ddd; border-radius:3px;color:#5a5a5a;}
+.sidebar-nav-inner ul.myschoolpanelcls {padding:0; border:0; box-shadow:none;}
+.sidebar-nav-inner ul.myschoolpanelcls li.list-heading {background:none; border:0;}
+.sidebar-nav-inner ul.myschoolpanelcls li {padding:8px 0 2px;}
+.sidebar-nav-inner ul.myschoolpanelcls>li>a.ui-btn {background:none; border:0; text-shadow:none; padding:0;}
+.sidebar-nav-inner ul.myschoolpanelcls>li>a.ui-btn-icon-right:after {width:0; height:0;}
+
+.icon-set.fnav-contact-lite-blue {background-position:-447px -261px;}
+.active .icon-set.fnav-contact-lite-blue {background-position:-447px -207px;}

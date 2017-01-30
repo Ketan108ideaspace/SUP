@@ -1,0 +1,192 @@
+@charset "utf-8";
+/* //======================================
+ Splash Screen
+ ========================================*/
+.splash-screen {width:100%; height:100%; margin:auto; position:relative;}
+.logo-wrap {display:table; width:100%; margin:auto; height:100%;}
+.logo-inner {display:table-cell; width:100%; margin:auto; text-align:center; vertical-align:middle; height:100%;}
+.icon-info {position:absolute; bottom:10px; right:10px; text-indent:-99999px;}
+.splash-screen div[role="main"] {height:100%;}
+
+/* ======================================
+ Sidebar Navigation
+ ========================================*/
+.sidebar-nav {width:100%; height:calc(100% - 20px); position:absolute; z-index:1;}
+.sidebar-overlay {width:100%; height:100%; background:#000; opacity:.75; position:absolute; z-index:-1;}
+.sidebar-nav-inner {width:88%; height:100%; padding:10px; overflow:auto; float:right; background:#fff; border-top:1px solid #e2e2e2; border-left:1px solid #e2e2e2;}
+.sidebar-nav-inner .menubar {float:left; padding:6px 2.5%;}
+.sidebar-nav-inner .searchWrap .ui-input-text {width:100%; border:1px solid #c9c9c9; padding:0px 5px 0px 38px; margin:0; background:url(../images/icon-search.png) 10px center no-repeat;}
+.sidebar-nav-inner .searchWrap input {width:100%; border:0; font-size:15px; color:#5a5a5a;}
+.sidebar-nav-inner .divider {padding-top:15px; margin-bottom:15px; border-bottom:1px solid #c9c9c9;}
+.sidebar-nav-inner ul {list-style:none; padding-bottom:5px;}
+.sidebar-nav-inner ul li.list-heading {font-size:11px; text-shadow:none; padding:0; color:#5a5a5a; text-transform:uppercase;}
+.sidebar-nav-inner ul li {padding:10px 0 2px;}
+.sidebar-nav-inner ul li a {font-size:14px; display:block; color:#5a5a5a !important; text-decoration:none; text-shadow:none; font-weight:normal;}
+.sidebar-nav-inner ul li a:hover {color:#000;}
+
+
+/* ======================================
+ Home Screen - Notifications
+ ========================================*/
+div[data-role="header"] a.login {position:absolute; left:15px; bottom:0px; font-size:12px; font-weight:400; text-decoration:none; color:#fff !important; background:none; box-shadow:none; text-shadow:none; border:0px; padding:28px 0 10px; display:none;}
+div[data-role="header"] a.menubar {position:absolute; right:1px; bottom:0px; background:none; box-shadow:none; text-shadow:none; border:0px; padding:28px 12px 0 13px;}
+.notification-row {height:calc(100% / 3); overflow:hidden; color:#fff; padding:15px; box-shadow:0 1px 20px #060606;}
+.notification-row.first {background:#fbde19; color:#000; box-shadow:none;}
+.notification-row.second {background: url(../images/blue-bg.jpg) top center repeat;}
+.notification-row.third {background:#d7481c;}
+.notif-title {font-size:33px; font-weight:lighter; line-height:38px; padding-bottom:10px; float:left; max-width:82%;}
+.notif-time {font-weight:lighter; float:right; width:44px; text-align:center;}
+.notif-time span.now {font-size:16px;}
+.notif-time span.month {font-size:13px; display:block;}
+.notif-time span.date {font-size:18px; line-height:20px; display:block;}
+.notif-text {font-size:14px; line-height:18px; text-shadow:none; word-wrap: break-word;}
+.notif-text p {padding-bottom: 10px}
+.notif-text p:last-child {padding-bottom: 0px}
+
+/* ======================================
+ News Feed
+ ========================================*/
+.news-feed-wrap {padding:5px; background:#fff;}
+.news-feed-row {width:100%; border-bottom:1px solid #eee; padding:10px; position:relative; cursor:pointer;}
+.news-feed-row:last-child {border-bottom:0;}
+.news-feed-row-colImg {float:left; width:auto;}
+.news-feed-row-colTxt {float:left; max-width:60%; padding-left:10px;}
+.news-feed-heading {color:#000; font-size:13px; padding-bottom:6px; font-weight:bold;}
+.news-feed-content {color:#000; font-size:13px;}
+span.schoolName {width:75%; font-size:18px; margin:auto;}
+span.news-feed-date {display:block; padding:0px 0 15px; font-size:12px;}
+
+
+
+/* ======================================
+ Home Screen - Landing Page
+ ========================================*/
+.landing-page-nav {width:100%; height:100%; padding:10px; background:#fff;}
+.landing-page-nav-inner {width:100px; /*height:120px;*/ padding-bottom:20px; float:left;}
+.landing-page-nav img {vertical-align:middle; margin-bottom:5px;}
+.landing-page-nav a {display:block; padding:10px; font-size:13px; color:#5a5a5a !important; font-weight:normal; text-decoration:none;}
+.landing-page-nav a span {display:block; width:100%; text-align:center; text-overflow:ellipsis; overflow:hidden; white-space:nowrap;}
+
+
+/* ======================================
+ Board Information
+ ========================================*/
+div[role="main"].boardInfo {height:calc(100% - 48px); background:#fff;}
+.boardInfo-footer-wrap {background:#f5f5f5; border-top:1px solid #ddd; padding:5px 0; text-align:center;}
+.boardInfo-footer-wrap .footer-nav-inner {width:20%;}
+div[data-role="header"] a.back {position:absolute; left:1px; bottom:0px; background:none; box-shadow:none; text-shadow:none; border:0px; padding:10px; top:10px;}
+.boardInfo-details {padding:10px 10px 0 10px; font-size:14px; line-height:22px;}
+.boardInfo-details h3 {font-size:18px;}
+.boardInfo-details p {font-size:13px; padding:2px 0 15px; word-wrap:break-word;}
+/*.boardInfo-footer-wrap .active a span {color:#397bb9;}*/
+
+/* ======================================
+ Newcomers
+ ========================================*/
+div[role="main"].newcomers {height:calc(100% - 63px); background:#fff;}
+.newcomers-footer-wrap {background:#f5f5f5; border-top:1px solid #ddd; padding:5px 0; text-align:center;}
+.newcomers-footer-wrap .footer-nav-inner {width:20%;}
+/*.newcomers-footer-wrap .footer-nav-inner span:last-child {
+ display: block;
+ margin: auto;
+ overflow: hidden;
+ padding-top: 2px;
+ text-overflow: ellipsis;
+ white-space: nowrap;
+ width: 90%;
+ font-size: 10px;
+ }*/
+.newcomers-footer-wrap .footer-nav-inner span:last-child {
+    /*display: table-cell;*/
+    font-size: 10px;
+    height: 30px;
+    line-height: 12px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+/* ======================================
+ Contact
+ ========================================*/
+.school-logoWrap, .full-imgWrap {padding:10px; text-align:center;}
+.school-logoWrap img, .full-imgWrap img {vertical-align:middle;}
+.school-addressWrap {padding:0 10px; color:#000; font-size:13px;}
+.school-addressWrap h2 {font-size:24px; margin-bottom:15px; color:#000; line-height:normal;}
+.school-addressWrap h3 {font-size:15px; font-style:italic; font-weight:normal; font-family:"Bitter"; color:#000; line-height:normal; margin-bottom:15px;}
+.school-addressWrap p {padding:10px 0;}
+
+
+/* ======================================
+ Trustees
+ ========================================*/
+ul.trustees-list {padding-top:5px; list-style:none;}
+ul.trustees-list li {width:100%; float:left; padding:14px 12px 14px 0; border-top:1px solid #c2c2c2; background:url(../images/blue-right-arrow.png) right center no-repeat;}
+ul.trustees-list li a {color:#000; text-decoration:none;}
+ul.trustees-list li img {vertical-align:top; float:left; margin-right:10px;}
+ul.trustees-list li p {width:62%; float:left; word-wrap:break-word; margin-top:-4px;}
+ul.trustees-list li p strong {display:block; width:100%; padding-bottom:6px;}
+ul.trustees-list li.trustees-bio {padding-right:0px; background:none; border:0px; padding-top:6px;}
+ul.trustees-list li.trustees-bio p {width:64%;}
+
+
+
+/* ======================================
+ Programs
+ ========================================*/
+ul.program-list {list-style:none; margin:0 10px;}
+ul.program-list li {width:100%; margin:auto; padding:0px; background:url(../images/icon-blk-arrow-dwn.png) right center no-repeat; border-bottom:1px solid #969696; font-size:16px;}
+.ui-icon-plus:after {background:url(../images/icon-blk-arrow-dwn.png) center no-repeat;}
+.ui-icon-minus:after {background:url(../images/icon-blue-arrow-up.png) center no-repeat;}
+ul.program-list a {display:block; font-weight:normal; color:#000 !important; text-decoration:none; padding:10px 25px 10px 2px;}
+.ui-page-theme-a h3.ui-collapsible-heading a {color:#1c3fa8; font-weight:normal; background:none;}
+.ui-page-theme-a h3.ui-collapsible-heading.ui-collapsible-heading-collapsed a {color:#000; font-weight:normal;}
+ul.program-list li:last-child {border-bottom:0px;}
+ul.subcategory-list {border-top:1px solid #969696; padding:0 4px;}
+.ui-collapsible-content ul li {border-bottom:1px solid #e2e2e2; background:url(../images/icon-arrow-right.png) right center no-repeat; font-size:14px;}
+.ui-collapsible-themed-content .ui-collapsible-content {padding-top:0; padding-bottom:0; border:0;}
+.ui-collapsible-inset, .ui-collapsible-set {margin:0; padding:0 10px;}
+
+/* ======================================
+ School Directory
+ ========================================*/
+div[role="main"].schoolDIR {height:100%; background:#fff;}
+.schoolDir-searchWrap {padding:20px 20px 15px;}
+.schoolDir-search-resultWrap {padding:20px; height:calc(100% - 113px); background:#ececec; overflow:auto;}
+.search-school {padding:8px 10px 8px 40px; width:100%; background:url(../images/icon-search.png) no-repeat 10px center; border:1px solid #c9c9c9; margin-bottom:10px;}
+.schoolDir-searchWrap a.adv-search {display:block; padding:5px 0; width:auto; float:left; text-decoration:none; font-weight:bold; font-size:12px; color:#5a5a5a;}
+.schoolDir-favWrap {padding:5px 20px 20px;}
+.schoolDir-favWrap h3 {font-size:10px; border-bottom:1px solid #e2e2e2; padding-bottom:8px; margin-bottom:8px; font-weight:bold; text-transform:uppercase;}
+ul.fav-school-list li {font-size:14px; padding:10px 0 10px 30px; position:relative;}
+ul.fav-school-list li span.icon-set {position:absolute; top:5px; left:0px; width:32px; padding:18px;}
+ul.fav-school-list li a {text-decoration:none; color:#000;}
+
+
+/* ======================================
+ Calender
+ ========================================*/
+div[role="main"].calender {height:calc(100% - 48px); background:#fff;}
+
+/* please add your css code above commented by ketan */
+.notification-row.color1 {background:#fbde19; color:#000;}
+.notification-row.color2 {background: url(../images/blue-bg.jpg) top center repeat; box-shadow:0 1px 20px #060606;}
+.notification-row.color3 {background:#d7481c; box-shadow:0 1px 20px #060606;}
+.news-feed-row-colImg img {width:111px;}
+#trusteeslistview li a img, #trusteesdetail ul li img {width:89px;}
+.full-imgWrap img {width:284px;}
+
+
+/* ======================================
+ Media CSS
+ ========================================*/
+@media (max-width:320px) {
+    .boardInfo-footer-wrap .footer-nav-inner {max-width:64px;}
+    .news-feed-content {display:none;}
+}
+.in, .out {
+    -webkit-animation-timing-function: ease-in-out;
+    -webkit-animation-duration: 50ms !important;
+	-moz-transition-duration: 50ms !important;
+	-o-animation-duration: 50ms !important;
+	transition-duration: 50ms !important;
+}

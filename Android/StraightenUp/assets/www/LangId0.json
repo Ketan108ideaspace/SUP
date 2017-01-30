@@ -1,0 +1,391 @@
+{
+    "labeljson": [
+        {
+            "versiontxtcls": "Version",
+            "langtitle": "Straighten Up Canada",
+            "home": "Home",
+            "landingtxtcls": "Take a posture break and enhance your health in just three minutes a day.",
+            "exercisetxtcls": "Exercise",
+            "nexttxtcls": "Next",
+            "playalltxtcls": "Play All",
+            "viewstills": "View Stills",
+            "viewvideo": "View Video",
+            "tracktxtcls": "Track",
+            "kybtxtcls": "Your Back",
+            "factxtcls": "Find a Chiro",
+            "blogtxtcls": "Blogs",
+            "aboutchirotxtcls": "About Chiro",
+            "kybtitle": "Know Your Back",
+            "viewbodytxtcls": "View Body Map",
+            "bodymaptxtcls": "Body Map",
+            "ortxtcls": "Or",
+            "vbmtxtcls": "Select an area to learn about common back-related problems",
+            "headtxtcls": "Headache",
+            "necktxtcls": "Neck pain",
+            "shouldertxtcls": "Shoulder pain",
+            "midtxtcls": "Mid - Upper back pain",
+            "lowertxtcls": "Lower back pain",
+            "hiptxtcls": "Hip pain",
+            "introtitle": "Straighten Up",
+            "infotitle": "Straighten Up",
+            "skiptxtcls": "Skip",
+            "introimg": "images/playallenadult-00001.png",
+            "introvideo": "http://d17xqzktjz7y87.cloudfront.net/Intro+Video.mp4",
+            "infoimg": "images/playallenadult-00001.png",
+            "infovideo": "http://d17xqzktjz7y87.cloudfront.net/Intro+Video.mp4",
+            "abouttitle": "About Chiropractic",
+            "aboutmainid": "<p>As musculoskeletal (MSK) experts, chiropractors provide qualified, effective treatment to promote health, alleviate pain and improve your quality of life. There are more than 8,400 licenced doctors of chiropractic practicing in Canada who are extensively trained to help you in the prevention, assessment, diagnosis and management of musculoskeletal (MSK) conditions and will recommend a course of treatment to help relieve pain and improve function without surgery or pharmaceuticals, such as mobilization, soft tissue therapy, exercise, education, modalities (eg. ultrasound or laser) and rehabilitation. Chiropractors are also trained to provide nutritional counseling, as well as recommend injury prevention strategies. Currently, over 4.5 million Canadians visit a chiropractor each year. <strong>For optimal health and quality of life, chiropractorscan play an important role as part of your healthcare team</strong>.</p><br><p><strong>Provincial Chiropractic Associations</strong></p><p>The divisions of the Canadian Chiropractic Association are the ten provincial associations, which advocate on behalf of patients at the regional level. Each province has a regulatory body, established in legislation, which is responsible for registering practitioners, establishing standards of practice, and protecting the public interest.</p><br><p>To learn more about chiropractic in each province, please click on the links below:</p><ul><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.albertachiro.com/\">Alberta College and Association of Chiropractors</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.chiropratique.com/\">Association des Chiropraticiens du Québec</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.bcchiro.com/\">British Columbia Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://knowyourback.ca/\">Council of the Nova Scotia College of Chiropractors</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.manitobachiropractors.ca/\">Manitoba Chiropractors Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.nbchiropractic.ca/\">New Brunswick Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.nlchiropractic.ca/\">Newfoundland and Labrador Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.chiropractic.on.ca/\">Ontario Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.peichiropractic.ca/\">Prince Edward Island Chiropractic Association</a></li><li><a rel=\"nofollow\" target=\"_blank\" href=\"https://www.saskchiropractic.ca/\">The Chiropractors\u2019 Association of Saskatchewan</a></li></ul>",
+            "backtxtcls": "Back",
+            "adultplayallimg": "images/playallenadult-00001.png",
+            "adultplayallvideo": "http://d17xqzktjz7y87.cloudfront.net/Full+Length+Video-EN-ADULT.mp4",
+            "youthplayallimg": "images/playallenadult-00001.png",
+            "youthplayallvideo": "http://d17xqzktjz7y87.cloudfront.net/Full+Length+Video-ENYOUTH.mp4",
+            "taptologtxtcls": "Tap to log your workout",
+            "remindertxtcls": "Reminder:",
+            "setremtxtcls": "Reminder",
+            "addedittxtcls": "Add/Edit",
+            "workouttxtcls": "Log & share your workout!",
+            "logexittxtcls": "Log and Exit",
+            "canceltxtcls": "Cancel",
+            "addtxtcls": "Add",
+            "savetxtcls": "Save",
+            "repeattxtcls": "Repeat",
+            "delremtxtcls": "Delete reminder",
+            "facebooksharingmsg": "I’m standing taller and feeling great thanks to the Straighten Up Canada app! Improve your posture in just minutes a day.",
+            "twittersharingmsg": "I’m improving my posture in just minutes a day with #StraightenUpCanada. #posturebreak",
+            "emailsharingmsg": "Hi! I’ve been improving my posture with the free Straighten Up Canada app and I feel great. It’s a series of 12 exercises that take just minutes a day. Thought you might like to try it, too. Get the app now:",
+            "blogsurl": "http://www.chiropractic.ca/category/blog/feed/",
+            "usecurtxtcls": "Find a Chiro near me",
+            "searchtxtcls": "Search",
+            "posttxtcls": "Postal Code",
+            "firsttxtcls": "First Name",
+            "lasttxtcls": "Last Name",
+            "citytxtcls": "City",
+            "provincetxtcls": "Province",
+            "seltxtcls": "Select",
+            "albertatxtcls": "Alberta",
+            "britishtxtcls": "British Columbia",
+            "manitobatxtcls": "Manitoba",
+            "brunswicktxtcls": "New Brunswick",
+            "foundlandtxtcls": "Newfoundland and Labrador",
+            "novatxtcls": "Nova Scotia",
+            "ontariotxtcls": "Ontario",
+            "princetxtcls": "Prince Edward Island",
+            "quebecatxtcls": "Quebeca",
+            "saskatchewanatxtcls": "Saskatchewan",
+            "languageval": "en",
+            "within": "50",
+            "mobile": "1",
+            "suntxtcls": "Sunday",
+            "montxtcls": "Monday",
+            "tuetxtcls": "Tuesday",
+            "wedtxtcls": "Wednesday",
+            "thutxtcls": "Thursday",
+            "fritxtcls": "Friday",
+            "sattxtcls": "Saturday",
+            "findsearchUrl": "http://chiropractic.ca/wp-content/themes/cca/locator.php",
+            "biourl": "http://chiropractic.ca/ccadata/getchrio.php?id=",
+            "graphswipe": "« Scroll to compare previous year",
+            "settingstitle": "Settings",
+            "defaultxtcls": "Default",
+            "langtxtcls": "Languages",
+            "aboutapptxtcls": "About the App",
+            "privacytxt": "Privacy Policy",
+            "privacylink": "http://www.chiropractic.ca/privacy-policy-straighten-up-canada-app",
+            "faqstxt": "Support FAQs",
+            "faqslink": "http://www.chiropractic.ca/straighten-up-canada-support-faqs",
+            "publishonfbcls": "Publish on Facebook",
+            "twitternowcls": "Tweet this now",
+            "emailtofrncls": "Email to friend",
+            "appwebsite": "http://www.straightenupcanada.ca/",
+            "remindermsg": "Reminder : It’s time to Straighten UP!",
+            "graphtitle": "Monthly Comparison",
+            "paramtrmsg": "Please enter at least one search parameter.",
+            "poptitle": "Straighten Up!",
+            "donebuttontxt": "Done",
+            "netalertmsg": "Straighten UP requires an active internet connection. Please check your network settings and try again.",
+            "netpoptitle": "No Internet Connection!",
+            "geoalertmsg": "This function needs access to your location. Please turn on Location Services in your device settings.",
+            "foradulttxtcls": "For Adult",
+            "foryouthtxtcls": "For Youth",
+			"continuetxtcls": "Continue",
+			"continueimgcls": "images/seasonal-bg-0.jpg",
+			"facebooknoinstall": "Facebook app is not installed",
+			"twitternoinstall": "Twitter app is not installed"
+        }
+    ],
+    "knowjson": [
+        {
+            "id": "1",
+            "name": "HEADACHE",
+            "description": "<p>Headaches may be related to problems with your neck.This could result from:</p><ul class=\"back-points\"><li>Tight muscles</li><li>Restricted movement of the spinal joints</li><li>Strain from sitting at a computer or being in a one position for long periods of time</li></ul><p>Consult a chiropractor if you often have headaches, if you frequently take a pain reliever for headaches, if your headache pattern changes, or if your headaches are getting worse.</p>"
+        },
+        {
+            "id": "2",
+            "name": "NECK PAIN",
+            "description": "<p>Neck pain can result from a variety of causes including:</p><br><ul class=\"back-points\"><li>Postural strain</li><li>Restricted movement of the spinal joints</li><li>Injuries and accidents</li></ul><p>When the joints in your neck are not moving properly this can also cause pain, tingling or numbness in your arms and hands. If neck pain is limiting your activities, consult a chiropractor for an assessment.</p>"
+        },
+        {
+            "id": "3",
+            "name": "SHOULDER PAIN",
+            "description": "<p>Shoulder pain can be caused from a number of things such as:</p><br><ul class=\"back-points\"><li>Referred pain from your neck</li><li>Rotator cuff injuries (muscles or tendons)</li><li>Sprain of the ligaments</li><li>Over use of the muscles in your shoulder</li></ul><p>Sometimes shoulder pain will originate from the shoulder blade area and refer pain into your upper arm. A chiropractor can diagnose the cause of your pain and recommend a treatment plan to put you on the road to recovery.</p>"
+        },
+        {
+            "id": "4",
+            "name": "MID & UPPER BACK PAIN",
+            "description": "<p>Pain in your back and between your shoulders can be related to:</p><br><ul class=\"back-points\"><li>Your posture</li><li>An injury such as lifting</li><li>Restricted movement of the joints in your spine</li></ul><p>If there is decreased movement of the rib joints or tightness of the rib muscles, this can cause pain into your chest and trouble taking a deep breath.</p><p>A chiropractor can work with you to restore healthy function to your muscles, ligaments and joints.</p>"
+        },
+        {
+            "id": "5",
+            "name": "LOWER BACK PAIN",
+            "description": "<p>Lower back pain can result from many causes including:</p><br><ul class=\"back-points\"><li>Muscle strain</li><li>Restrictions in the movement of the spinal joints or pelvis (sacroiliac joints)</li><li>lifting</li><li>disc injuries</li><li>weakness of the core muscles which support your lower back</li></ul><p>Sometimes lower back problems can cause pain, tingling or numbness in your legs and feet.</p><p>If you experience back pain that last more than a few days, consult a chiropractor for an assessment.</p>"
+        },
+        {
+            "id": "6",
+            "name": "HIP PAIN",
+            "description": "<p>Pain in your hip area can be caused by a variety of sources:</p><br><ul class=\"back-points\"><li>Restricted movement of the hip joint</li><li>Restricted movement of the pelvis</li><li>Muscle strain or overuse of the muscles in the pelvic and hip area</li></ul><p>Pain in this area can refer into your legs, the side of your hip or into your groin area. Sometimes the bursa on the side of the hip will become irritated causing bursitis. A chiropractor can diagnose the source of the pain and recommend a course of treatment specific to you.</p>"
+        }
+    ],
+    "languagejson": [
+        {
+            "id": "0",
+            "name": "English"
+        },
+        {
+            "id": "1",
+            "name": "French"
+        }
+    ],
+    "excercisesadultjson": [
+        {
+            "id": 1,
+            "name": "For Adult",
+            "data": [
+                {
+                    "id": "4",
+                    "title": "Straighten Up",
+					"defaul_img": "images/content/EX_1_StraightenUp1a.jpg",
+                    "content": "<h2>Straighten Up</h2><ul class=\"core\"><li>Standing tall, feet together, align your ears, shoulders, hips, knees and ankles.</li><li>Now pull your belly button in towards your spine.</li><li>You are now in Straighten Up position and will return to this position at the end of each exercise.</li></ul>",
+                    "holder_image": "images/exec/adult-ex1.jpg",
+                    "picture_img": "images/content/straighten-up-final.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+1a+Straighten+Up.mp4"
+                },
+                {
+                    "id": "3",
+                    "title": "Bending Star",
+					"defaul_img": "images/content/EX_2_BendingStar1a.jpg",
+                    "content": "<h2>Bending Star</h2><ul class=\"core\"><li>From Straighten Up pose, move your feet shoulder width apart and raise your arms to the side.</li><li>Breathe in slowly; and bend your spine to one side as one arm goes over your head.</li><li>Slowly return to starting position.</li><li>Do this twice on each side.</li></ul>",
+                    "holder_image": "images/exec/adult-ex2.jpg",
+                    "picture_img": "images/content/bending-star-final.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+2a+Bending+Star.mp4"
+                },
+                {
+                    "id": "5",
+                    "title": "Twisting Star",
+					"defaul_img": "images/content/EX_3_TwistingStar1a.jpg",
+                    "content": "<h2>Twisting Star</h2><ul class=\"core\"><li>From Straighten Up pose, stand with your feet shoulder width apart and your arms out to the side.</li><li>Pull your belly button in towards your spine. </li><li>Twist your spine to the left and turn your head to watch your left hand go behind you. Pause and slowly return to face forward.</li><li>Now we’re going to do the same to the other side. Twist your spine to the right, pause when you feel a stretch and slowly turn to face forward.</li><li>Do this one more time on each side. Remember to stop twisting when you feel a stretch.</li></ul>",
+                    "holder_image": "images/exec/adult-ex3.jpg",
+                    "picture_img": "images/content/twist-and-sway.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+3a+Twisting+Star.mp4"
+                },
+                {
+                    "id": "6",
+                    "title": "Crossover Star",
+					"defaul_img": "images/content/EX_4_CrossoverStar1a.jpg",
+                    "content": "<h2>Crossover Star</h2><ul class=\"core\"><li>From Straighten Up pose, standing with your feet shoulder-width apart and your hands in the air, bring your left elbow across your body and lift your right knee up to meet it.</li><li>Now try it on the other side. Keep alternating sides a few times.</li></ul>",
+                    "holder_image": "images/exec/adult-ex4.jpg",
+                    "picture_img": "images/content/crossover-star-final.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+4a+Crossover+Star.mp4"
+                },
+                {
+                    "id": "7",
+                    "title": "Trap Openers",
+					"defaul_img": "images/content/EX_5_TrapOpeners1a.jpg",
+                    "content": "<h2>Trap Openers</h2><ul class=\"core\"><li>In the Straighten Up position, breathe deeply and let your head hang loosely to the front.</li><li>Keep your shoulders back, and gently roll your head from side-to-side a few times.</li><li>Stop, and bring your hands up to your neck to gently massage the back of your head and neck.</li><li>Finish by dropping your arms to your sides, relaxing your shoulders and slowly rolling your shoulders back and then forward for 15 seconds.</li></ul>",
+                    "holder_image": "images/exec/adult-ex5.jpg",
+                    "picture_img": "images/content/trap-openers.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+5a+Trap+Openers.mp4"
+                },
+                {
+                    "id": "8",
+                    "title": "Reach for the Sky",
+					"defaul_img": "images/content/EX_6_ReachfortheSky1a.jpg",
+                    "content": "<h2>Reach for the Sky</h2><ul class=\"core\"><li>From Straighten Up pose, stand with your feet shoulder width apart with your arms at your sides.</li><li>Gently sweep your arms out from your sides and up over your head. Touch your hands together before you release them back out and down to your sides.</li><li>Repeat this three more times.</li></ul>",
+                    "holder_image": "images/exec/adult-ex6.jpg",
+                    "picture_img": "images/content/Reach-for-the-sky.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+6a+Reach+for+the+Sky.mp4"
+                },
+                {
+                    "id": "9",
+                    "title": "Bending Circles",
+					"defaul_img": "images/content/EX_7_BendingCircles1a.jpg",
+                    "content": "<h2>Bending Circles</h2><ul class=\"core\"><li>From Straighten Up pose with your arms bent and your hands in the air, rotate your shoulders backwards making small circles in the air with your arms.</li><li>Now bend gently at your waist from side to side.</li><li>Make sure you keep your belly button pulled in.</li><li>Do this two times on each side</li></ul>",
+                    "holder_image": "images/exec/adult-ex7.jpg",
+                    "picture_img": "images/content/bending-circles.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+7a+Bending+Circles.mp4"
+                },
+                {
+                    "id": "12",
+                    "title": "Shoulder Pull",
+					"defaul_img": "images/content/EX_8_ShoulderPull1a.jpg",
+                    "content": "<h2>Shoulder Pull</h2><ul class=\"core\"><li>From Straighten Up pose, bring your hands up behind your head and draw your elbows back.</li><li>Tuck your chin in and gently press your head back into your hands, but resist the pressure by carefully pushing on your head with your hands. Count to two and then stop pressing your head into your hands.</li><li>Let’s try this three more times.</li><li>Before we continue, let your head fall forward and massage the back of your neck.</li><li>To finish rest your hands at your sides.</li></ul>",
+                    "holder_image": "images/exec/adult-ex8.jpg",
+                    "picture_img": "images/content/shoulder-pull.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+8a+Shoulder+Pull.mp4"
+                },
+                {
+                    "id": "13",
+                    "title": "Tight Rope Lunge",
+					"defaul_img": "images/content/EX_9_TightRopeLunge1a.jpg",
+                    "content": "<h2>Tight Rope Lunge</h2><ul class=\"core\"><li>Standing tall with hands on hips, take a step forward with your right leg while bending your knee slowly. You can let your left heel lift off the floor. Make sure that your right knee is only bent enough to be over your ankle but not past your toes.</li><li>Straighten back up so we can try this on the other side</li><li>Take a step forward with your left leg while bending your knee slowly. You can let your right heel lift off the floor. This time, make sure your left knee is only bent enough to be over your ankle, but not past your toes.</li><li>Remember to keep your back straight.</li></ul>",
+                    "holder_image": "images/exec/adult-ex9.jpg",
+                    "picture_img": "images/content/tight-rope-lunge.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+9a+Tightrope+Lunge.mp4"
+                },
+                {
+                    "id": "14",
+                    "title": "Twist and Sway",
+					"defaul_img": "images/content/EX_10_TwistandSway1a.jpg",
+                    "content": "<h2>Twist and Sway</h2><ul class=\"core\"><li>From Straighten Up pose, step out to the side with one foot and for 15 seconds, sway gently from side-to-side breathing calmly and deeply. &nbsp;Let your arms move freely.</li></ul>",
+                    "holder_image": "images/exec/adult-ex10.jpg",
+                    "picture_img": "images/content/twist-and-sway.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+10a+Twist+and+Sway.mp4"
+                },
+                {
+                    "id": "15",
+                    "title": "Triangle Stretch",
+					"defaul_img": "images/content/EX_11_TriangleStretch1a.jpg",
+                    "content": "<h2>Triangle Stretch</h2><ul class=\"core\"><li>Start in the Straighten Up position.</li><li>Step to your right and bend at your waist to the right, extending your left arm above your head, hold this for 10 seconds.</li><li>Now, straighten back up. This time step to left, bend at your waist and extend your right arm above your head. &nbsp;Hold this for 10 seconds.</li></ul>",
+                    "holder_image": "images/exec/adult-ex11.jpg",
+                    "picture_img": "images/content/triangle-strech.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+11a+Triangle+Stretch.mp4"
+                },
+                {
+                    "id": "16",
+                    "title": "Shake it Out",
+					"defaul_img": "images/content/EX_12.jpg",
+                    "content": "<h2>Shake it Out</h2><ul class=\"core\"><li>This one is pure fun. Ready?</li><li>Shake all your limbs loosely for 15 seconds.</li></ul>",
+                    "holder_image": "images/exec/ex12.jpg",
+                    "picture_img": "images/content/video-holder.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+12a+Shake+It+Out.mp4"
+                }
+            ]
+        }
+    ],
+    "excercisesyouthjson": [
+        {
+            "id": 2,
+            "name": "For Youth",
+            "data": [
+                {
+                    "id": "10",
+                    "title": "Straighten Up",
+					"defaul_img": "images/content/EX_1_StraightenUp1b.jpg",
+                    "content": "<h2>Straighten Up</h2><ul class=\"core\"><li>Standing tall, feet together, align your ears, shoulders, hips, knees and ankles.</li><li>Now pull your belly button in towards your spine.</li><li>You are now in Straighten Up position and will return to this position at the end of each exercise.</li></ul>",
+                    "holder_image": "images/exec/kid-ex1.jpg",
+                    "picture_img": "images/content/straighten-up-final-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+1b+Straighten+Up.mp4"
+                },
+                {
+                    "id": "11",
+                    "title": "Bending Star",
+					"defaul_img": "images/content/EX_2_BendingStar1b.jpg",
+                    "content": "<h2>Bending Star</h2><ul class=\"core\"><li>From Straighten Up pose, move your feet shoulder width apart and raise your arms to the side.</li><li>Breathe in slowly; and bend your spine to one side as one arm goes over your head.</li><li>Slowly return to starting position.</li><li>Do this twice on each side.</li></ul>",
+                    "holder_image": "images/exec/kid-ex2.jpg",
+                    "picture_img": "images/content/bending-star-final-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+2b+Bending+Star.mp4"
+                },
+                {
+                    "id": "17",
+                    "title": "Twisting Star",
+					"defaul_img": "images/content/EX_3_TwistingStar1b.jpg",
+                    "content": "<ul class=\"core\"><li>From Straighten Up pose, stand with your feet shoulder width apart and your arms out to the side.</li><li>Pull your belly button in towards your spine. </li><li>Twist your spine to the left and turn your head to watch your left hand go behind you. Pause and slowly return to face forward.</li><li>Now we’re going to do the same to the other side. Twist your spine to the right, pause when you feel a stretch and slowly turn to face forward.</li><li>Do this one more time on each side. Remember to stop twisting when you feel a stretch.</li></ul>",
+                    "holder_image": "images/exec/kid-ex3.jpg",
+                    "picture_img": "images/content/twist-and-sway-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+3b+Twisting+Star.mp4"
+                },
+                {
+                    "id": "18",
+                    "title": "Crossover Star",
+					"defaul_img": "images/content/EX_4_CrossoverStar1b.jpg",
+                    "content": "<h2>Crossover Star</h2><ul class=\"core\"><li>From Straighten Up pose, standing with your feet shoulder-width apart and your hands in the air, bring your left elbow across your body and lift your right knee up to meet it.</li><li>Now try it on the other side. Keep alternating sides a few times.</li></ul>",
+                    "holder_image": "images/exec/kid-ex4.jpg",
+                    "picture_img": "images/content/crossover-star-final-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+4b+Crossover+Star.mp4"
+                },
+                {
+                    "id": "19",
+                    "title": "Trap Openers",
+					"defaul_img": "images/content/EX_5_TrapOpeners1b.jpg",
+                    "content": "<h2>Trap Openers</h2><ul class=\"core\"><li>In the Straighten Up position, breathe deeply and let your head hang loosely to the front.</li><li>Keep your shoulders back, and gently roll your head from side-to-side a few times.</li><li>Stop, and bring your hands up to your neck to gently massage the back of your head and neck.</li><li>Finish by dropping your arms to your sides, relaxing your shoulders and slowly rolling your shoulders back and then forward for 15 seconds.</li></ul>",
+                    "holder_image": "images/exec/kid-ex5.jpg",
+                    "picture_img": "images/content/crossover-star-final-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+5b+Trap+Openers.mp4"
+                },
+                {
+                    "id": "20",
+                    "title": "Reach for the Sky",
+					"defaul_img": "images/content/EX_6_ReachfortheSky1b.jpg",
+                    "content": "<h2>Reach for the Sky</h2><ul class=\"core\"><li>From Straighten Up pose, stand with your feet shoulder width apart with your arms at your sides.</li><li>Gently sweep your arms out from your sides and up over your head. Touch your hands together before you release them back out and down to your sides.</li><li>Repeat this three more times.</li></ul>",
+                    "holder_image": "images/exec/kid-ex6.jpg",
+                    "picture_img": "images/content/Reach-for-the-sky-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+6b+Reach+for+the+Sky.mp4"
+                },
+                {
+                    "id": "21",
+					"title": "Bending Circles",
+					"defaul_img": "images/content/EX_7_BendingCircles1b.jpg",
+                    "content": "<h2>Bending Circles</h2><ul class=\"core\"><li>From Straighten Up pose with your arms bent and your hands in the air, rotate your shoulders backwards making small circles in the air with your arms.</li><li>Now bend gently at your waist from side to side.</li><li>Make sure you keep your belly button pulled in.</li><li>Do this two times on each side</li></ul>",
+                    "holder_image": "images/exec/kid-ex7.jpg",
+                    "picture_img": "images/content/bending-circles-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+7b+Bending+Circles.mp4"
+                },
+                {
+                    "id": "22",
+                    "title": "Shoulder Pull",
+					"defaul_img": "images/content/EX_8_ShoulderPull1b.jpg",
+                    "content": "<h2>Shoulder Pull</h2><ul class=\"core\"><li>From Straighten Up pose, bring your hands up behind your head and draw your elbows back.</li><li>Tuck your chin in and gently press your head back into your hands, but resist the pressure by carefully pushing on your head with your hands. Count to two and then stop pressing your head into your hands.</li><li>Let’s try this three more times.</li><li>Before we continue, let your head fall forward and massage the back of your neck.</li><li>To finish rest your hands at your sides.</li></ul>",
+                    "holder_image": "images/exec/kid-ex8.jpg",
+                    "picture_img": "images/content/shoulder-pull-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+8b+Shoulder+Pull.mp4"
+                },
+                {
+                    "id": "23",
+                    "title": "Tight Rope Lunge",
+					"defaul_img": "images/content/EX_9_TightRopeLunge1b.jpg",
+                    "content": "<h2>Tight Rope Lunge</h2><ul class=\"core\"><li>Standing tall with hands on hips, take a step forward with your right leg while bending your knee slowly. You can let your left heel lift off the floor. Make sure that your right knee is only bent enough to be over your ankle but not past your toes.</li><li>Straighten back up so we can try this on the other side</li><li>Take a step forward with your left leg while bending your knee slowly. You can let your right heel lift off the floor. This time, make sure your left knee is only bent enough to be over your ankle, but not past your toes.</li><li>Remember to keep your back straight.</li></ul>",
+                    "holder_image": "images/exec/kid-ex9.jpg",
+                    "picture_img": "images/content/tight-rope-lunge-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+9b+Tightrope+Lunge.mp4"
+                },
+                {
+                    "id": "24",
+                    "title": "Twist and Sway",
+					"defaul_img": "images/content/EX_10_TwistandSway1b.jpg",
+                    "content": "<h2>Twist and Sway</h2><ul class=\"core\"><li>From Straighten Up pose, step out to the side with one foot and for 15 seconds, sway gently from side-to-side breathing calmly and deeply. &nbsp;Let your arms move freely.</li></ul>",
+                    "holder_image": "images/exec/kid-ex10.jpg",
+                    "picture_img": "images/content/twist-and-sway-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+10b+Twist+and+Sway.mp4"
+                },
+                {
+                    "id": "25",
+                    "title": "Triangle Stretch",
+					"defaul_img": "images/content/EX_11_TriangleStretch1b.jpg",
+                    "content": "<h2>Triangle Stretch</h2><ul class=\"core\"><li>Start in the Straighten Up position.</li><li>Step to your right and bend at your waist to the right, extending your left arm above your head, hold this for 10 seconds.</li><li>Now, straighten back up. This time step to left, bend at your waist and extend your right arm above your head. &nbsp;Hold this for 10 seconds.</li></ul>",
+                    "holder_image": "images/exec/kid-ex11.jpg",
+                    "picture_img": "images/content/triangle-strech-2.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+11b+Triangle+Stretch.mp4"
+                },
+                {
+                    "id": "26",
+                    "title": "Shake it Out",
+					"defaul_img": "images/content/EX_12.jpg",
+                    "content": "<h2>Shake it Out</h2><ul class=\"core\"><li>This one is pure fun. Ready?</li><li>Shake all your limbs loosely for 15 seconds.</li></ul>",
+                    "holder_image": "images/exec/ex12.jpg",
+                    "picture_img": "images/content/video-holder.jpg",
+                    "video_url": "http://d17xqzktjz7y87.cloudfront.net/Exercise+12b+Shake+It+Out.mp4"
+                }
+            ]
+        }
+    ]
+}

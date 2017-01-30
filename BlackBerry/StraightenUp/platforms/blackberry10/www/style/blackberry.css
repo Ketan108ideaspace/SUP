@@ -1,0 +1,28 @@
+@media only screen 
+  and (min-device-width: 720px) 
+  and (max-device-width: 1280px) {
+	  #hand{
+		margin-top: 17.444%;
+		right: 63.821%;
+	  }
+	  #neck {
+		margin-top: 33%;
+		right: 55%;
+	}
+	#shoulder {
+		margin-top: 46%;
+		right: 61%;
+	}
+	#backtop {
+		margin-top: 61%;
+		right: 31%;
+	}
+	#backbottom {
+		margin-top: 95%;
+		right: 29%;
+	}
+	#side {
+		margin-top: 114%;
+		right: 52%;
+	}
+}

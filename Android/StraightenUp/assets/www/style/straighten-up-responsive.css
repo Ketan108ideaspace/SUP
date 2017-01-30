@@ -1,0 +1,1056 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+    .home-banner {
+        width: 100%;
+        text-align: center;
+    }
+    .home-banner img {
+        width: 100%;
+    }
+}
+/*@media screen and (orientation:portrait) {
+    .ui-mobile .ui-page {
+        min-height: 96%;
+    }
+}
+
+@media screen and (orientation:landscape) {
+    .ui-mobile .ui-page {
+        min-height: 93%;
+    }
+}*/
+@media (min-width:28em) {
+    .ui-field-contain, .ui-mobile fieldset.ui-field-contain {
+        padding: 0;
+        margin: 1em 0;
+        border-bottom-width: 0
+    }
+    .ui-field-contain:before, .ui-field-contain:after {
+        content: "";
+        display: table
+    }
+    .ui-field-contain:after {
+        clear: both
+    }
+    .ui-field-contain>label, .ui-field-contain .ui-controlgroup-label, .ui-field-contain>.ui-rangeslider>label {
+        float: left;
+        width: 20%;
+        margin: .5em 2% 0 0
+    }
+    .ui-popup .ui-field-contain>label, .ui-popup .ui-field-contain .ui-controlgroup-label, .ui-popup .ui-field-contain>.ui-rangeslider>label {
+        float: none;
+        width: auto;
+        margin: 0 0 .4em
+    }
+    .ui-field-contain>label~[class*=ui-], .ui-field-contain .ui-controlgroup-controls {
+        float: left;
+        width: 78%;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box
+    }
+    .ui-hide-label>label~[class*=ui-], .ui-hide-label .ui-controlgroup-controls, .ui-popup .ui-field-contain>label~[class*=ui-], .ui-popup .ui-field-contain .ui-controlgroup-controls {
+        float: none;
+        width: 100%
+    }
+    .ui-field-contain>label~.ui-btn-inline {
+        width: auto;
+        margin-right: .625em
+    }
+}
+@media (max-width:35em) {
+    .ui-responsive>.ui-block-a, .ui-responsive>.ui-block-b, .ui-responsive>.ui-block-c, .ui-responsive>.ui-block-d, .ui-responsive>.ui-block-e {
+        width: 100%;
+        float: none
+    }
+}
+@media only all {
+    th.ui-table-priority-6, td.ui-table-priority-6, th.ui-table-priority-5, td.ui-table-priority-5, th.ui-table-priority-4, td.ui-table-priority-4, th.ui-table-priority-3, td.ui-table-priority-3, th.ui-table-priority-2, td.ui-table-priority-2, th.ui-table-priority-1, td.ui-table-priority-1 {
+        display: none
+    }
+}
+@media screen and (min-width:20em) {
+    .ui-table-columntoggle.ui-responsive th.ui-table-priority-1, .ui-table-columntoggle.ui-responsive td.ui-table-priority-1 {
+        display: table-cell
+    }
+}
+
+@media screen and (min-width:30em) {
+    .ui-table-columntoggle.ui-responsive th.ui-table-priority-2, .ui-table-columntoggle.ui-responsive td.ui-table-priority-2 {
+        display: table-cell
+    }
+}
+
+@media screen and (min-width:40em) {
+    .ui-table-columntoggle.ui-responsive th.ui-table-priority-3, .ui-table-columntoggle.ui-responsive td.ui-table-priority-3 {
+        display: table-cell
+    }
+}
+
+@media screen and (min-width:50em) {
+    .ui-table-columntoggle.ui-responsive th.ui-table-priority-4, .ui-table-columntoggle.ui-responsive td.ui-table-priority-4 {
+        display: table-cell
+    }
+}
+
+@media screen and (min-width:60em) {
+    .ui-table-columntoggle.ui-responsive th.ui-table-priority-5, .ui-table-columntoggle.ui-responsive td.ui-table-priority-5 {
+        display: table-cell
+    }
+}
+
+@media screen and (min-width:70em) {
+    .ui-table-columntoggle.ui-responsive th.ui-table-priority-6, .ui-table-columntoggle.ui-responsive td.ui-table-priority-6 {
+        display: table-cell
+    }
+}
+@media only all {
+    .ui-table-reflow thead td, .ui-table-reflow thead th {
+        display: none
+    }
+    .ui-table-reflow td, .ui-table-reflow th {
+        text-align: left;
+        display: block
+    }
+    .ui-table-reflow tbody th {
+        margin-top: 3em
+    }
+    .ui-table-reflow td .ui-table-cell-label, .ui-table-reflow th .ui-table-cell-label {
+        padding: .4em;
+        min-width: 30%;
+        display: inline-block;
+        margin: -.4em 1em -.4em -.4em
+    }
+    .ui-table-reflow th .ui-table-cell-label-top, .ui-table-reflow td .ui-table-cell-label-top {
+        display: block;
+        padding: .4em 0;
+        margin: .4em 0;
+        text-transform: uppercase;
+        font-size: .9em;
+        font-weight: 400
+    }
+}
+
+@media (min-width:35em) {
+    .ui-table-reflow.ui-responsive {
+        display: table-row-group
+    }
+    .ui-table-reflow.ui-responsive td, .ui-table-reflow.ui-responsive th, .ui-table-reflow.ui-responsive tbody th, .ui-table-reflow.ui-responsive tbody td, .ui-table-reflow.ui-responsive thead td, .ui-table-reflow.ui-responsive thead th {
+        display: table-cell;
+        margin: 0
+    }
+    .ui-table-reflow.ui-responsive td .ui-table-cell-label, .ui-table-reflow.ui-responsive th .ui-table-cell-label {
+        display: none
+    }
+}
+
+@media (max-width:35em) {
+    .ui-table-reflow.ui-responsive td, .ui-table-reflow.ui-responsive th {
+        width: 100%;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        float: left;
+        clear: left
+    }
+}
+@media screen and (max-device-width:768px) {
+    .ui-page-header-fixed .ui-panel-animate.ui-panel-wrapper, .ui-page-footer-fixed .ui-panel-animate.ui-panel-wrapper, .ui-panel-animate.ui-panel-fixed-toolbar {
+        -ms-transition: none
+    }
+    .ui-panel-animate.ui-panel-fixed-toolbar {
+        -ms-transition: -ms-transform 1ms;
+        -ms-transform: rotate(0deg)
+    }
+}
+@media (min-width:55em) {
+    .ui-responsive-panel .ui-panel-page-content-open.ui-panel-page-content-position-left {
+        margin-right: 7em
+    }
+    .ui-responsive-panel .ui-panel-page-content-open.ui-panel-page-content-position-right {
+        margin-left: 7em
+    }
+    .ui-responsive-panel .ui-panel-page-content-open {
+        width: auto
+    }
+    .ui-responsive-panel .ui-panel-dismiss-display-push, .ui-responsive-panel.ui-page-active~.ui-panel-dismiss-display-push {
+        display: none
+    }
+}
+
+@media (min-width:768px) and (max-width:1540px) {
+.bg-image-ipad {
+	display: block;
+}
+.bg-image {
+	display: none;
+}
+.bg-image-ipad img.iPad-potrait {
+	display: block;
+}
+.bg-image-ipad img.iPad-landscape {
+	display: none;
+}
+.seasonal-home-banner {
+	height: 1024px;
+}
+
+.logo-bottom {
+	position: absolute;
+	z-index: 2;
+	bottom: 225px;
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+}
+.banner-quotes {
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 50% auto 0;
+	width: 46%;
+	font-size: 72px;
+}
+#landing-page, #intro-landing-page-a, #intro-landing-page-c, #setting-chiro-page {
+	background: url(../images/ipad-index-bg.jpg) no-repeat;
+}
+ul.index-chicklets li {
+	padding: 30px 5% 100px;
+}
+ul.index-chicklets li a {
+	margin: auto;
+}
+ul.index-chicklets li span {
+	display: block;
+}
+.ui-mobile .ui-page {
+/*	min-height: 956px !important;*/
+}
+.ui-panel-position-left.ui-panel-display-reveal {
+	left: 0em;
+	width: 7em;
+	visibility: visible;
+	position:fixed;
+	z-index: 1000;
+	top:0em;
+	float:left
+}
+.ui-panel-wrapper {
+	padding-left: 7em;
+	box-sizing: border-box;
+}
+a#bars-button {
+	display: none;
+}
+.ui-footer-fixed {
+	display: none;
+}
+.ui-icon-myapp-excercises, .ui-icon-myapp-tracker, .ui-icon-myapp-your-back, .ui-icon-myapp-find-chiro {
+	display: block !important;
+}
+.ui-icon-myapp-home, .ui-icon-myapp-chiro, .ui-icon-myapp-setting, .ui-icon-myapp-excercises, .ui-icon-myapp-tracker, .ui-icon-myapp-your-back, .ui-icon-myapp-find-chiro, .ui-icon-myapp-blog {
+	margin-bottom: 2em !important;
+}
+.ui-popup-container {
+	max-width: 336px!important;
+	left: 20% !important;
+}
+.ui-header .ui-title, .ui-header .header-icon{
+		margin-left: 5.1em !important;
+	}
+.ui-header .ui-title{
+	line-height:35px;
+}
+#blog-inside h1{
+	line-height: 70px;
+}
+.ui-header .header-icon, .ui-header .profile-pic{
+	margin-left: 7em !important;
+}
+#excercises a.ui-icon-myapp-excercises, #excercises-inside a.ui-icon-myapp-excercises, #navpanel1-a a.ui-icon-myapp-excercises {
+	background-position: 13px -798px;
+	color: #FFF;
+}
+#excercises .excercise-list li {
+	width: 31.3%;
+	margin: 1% !important;
+}
+#poster a.ui-icon-myapp-tracker, #navpanel3-a a.ui-icon-myapp-tracker, #navpanel3-b a.ui-icon-myapp-tracker, #navpanel3-c a.ui-icon-myapp-tracker {
+	background-position: 13px -887px;
+	color: #FFF;
+}
+#know a.ui-icon-myapp-your-back {
+	background-position: 13px -976px;
+	color: #FFF;
+}
+.know-inside-bg a.ui-icon-myapp-your-back {
+	background-position: 13px -976px;
+	color: #FFF !important;
+}
+#find a.ui-icon-myapp-find-chiro, #navpanel9 a.ui-icon-myapp-find-chiro, #navpanel9-a a.ui-icon-myapp-find-chiro {
+	background-position: 13px -1066px;
+	color: #FFF;
+}
+#navpanel, #navpanel1, #navpanel2, #navpanel3, #navpanel4, #navpanel5, #navpanel6, #navpanel7, #navpanel8, #navpanel9, #navpanel10, #navpanel11, #navpanel12, #navpanel13, #navpanel14 {
+	position: fixed;
+}
+.know-your-back-wrapper {
+	height: 964px;
+}
+.back-image img {
+	width: 656px;
+	height: 964px;
+}
+#hand {
+	margin-top: 10.444%;
+	right: 64.821%;
+}
+#neck {
+	margin-top: 30.444%;
+	right: 52.821%;
+}
+#shoulder {
+	margin-top: 48.444%;
+	right: 62.821%;
+}
+#backtop {
+	margin-top: 64.444%;
+	right: 29.821%;
+}
+#backbottom {
+	margin-top: 98.444%;
+	right: 28.821%;
+}
+#side {
+	margin-top: 116.444%;
+	right: 50.821%;
+}
+#about-index {
+	background: #f5f5f5;
+	min-height: 852px !important;
+}
+#about-index .ui-content {
+	width: 600px;
+	margin: auto;
+	padding: 15px 15px 0 15px;
+	height: 818px;
+	overflow: auto;
+	margin-top: 30px;
+	box-sizing: border-box;
+	background: #fff;
+}
+.find-inside-bg .ui-content {
+	min-height: 200px;
+}
+.find-inside-bg .header-inside {
+	height: 85px;
+	box-sizing: border-box;
+	padding-left: 7em;
+}
+.infointroplayvideoid, .playallvideoid {
+	padding-top: 30%;
+}
+#excercises.ui-page {
+	padding-bottom: 0px !important;
+	overflow: hidden;
+	min-height: 595px !important;
+}
+#excercises-inside .video-content {
+	width: 100%;
+	box-sizing: border-box;
+	float: left;
+	padding: 0px;
+}
+#excercises-inside .video-content video {
+	height: 480px;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+}
+#excercises-inside .video-content+.text-content {
+	width: 100%;
+	box-sizing: border-box;
+	float: right;
+	padding: 1em 0 0 0 !important;
+}
+.video-content video {
+	height: 225px;
+}
+#excercises .ui-panel-wrapper {
+	background: #f5f5f5;
+}
+#excercises .ui-content {
+	width: 620px;
+	box-sizing: border-box;
+	margin: auto;
+}
+#excercises .ui-content ul.excercise-list {
+	background: #fff;
+	padding: 15px;
+	width: 100%;
+	float: left;
+	box-sizing: border-box;
+	height: 724px;
+	overflow: auto;
+}
+.text-content ul.excercise-list {
+    padding: 30px;
+}
+#excercises .video-button {
+	max-width: 336px;
+	margin: 0 auto 1em;
+}
+#excercises-inside {
+	min-height: 0px !important;
+	padding: 0 !important;
+}
+#excercises-inside .content-inside {
+	background: #f5f5f5;
+	box-sizing: border-box;
+}
+#excercises-inside .content-inside > div {
+	width: 520px;
+	margin: 6em auto 0;
+	background: #fff;
+	padding: 20px;
+	box-sizing: border-box;/*min-height: 944px;*/
+}
+#excercises-inside .showhideexercisecls {
+	height: 100%;
+}
+#know, #find, #settings-page {
+	background: #f5f5f5;
+}
+#know {
+	padding-bottom: 0px !important;
+	min-height: 850px !important;
+}
+#know .ui-content, #find .ui-content, #settings-page .ui-content {
+	padding: 15px;
+	box-sizing: border-box;
+	background: none;
+	margin: auto;
+}
+
+#find {
+	min-height: 852px !important;
+}
+.iscroll-content {
+	background: #fff;
+	padding-top: 8px;
+	margin-top: 0px;
+}
+#blog-index .iscroll-scroller {
+	min-height: 850px !important;
+}
+#blog-index .ui-panel-wrapper .iscroll-wrapper {
+	height: auto;
+	min-height: 830px;
+	overflow: auto !important;
+	background: #FFF;
+	width: 600px;
+	margin: 30px auto 0;
+}
+#blog-index .header {
+	background: url(../images/ipadL-blog-banner.jpg) no-repeat top center;
+	background-size: 100% auto;
+}
+.blog-list > li {
+	background: none;
+	width: 50%;
+	box-sizing: border-box;
+	border: 0px;
+	display: inline-block;
+	vertical-align: text-top;
+}
+.blog-list > li:nth-child(odd) {
+	padding-right: 7px;
+}
+.blog-list > li:nth-child(even) {
+	padding-left: 7px;
+}
+.blog-list > li .image-holder {
+	width: 100%;
+	padding: 0;
+	margin: auto;
+	height: 100px;
+	overflow: hidden;
+	background: #d6d6d6;
+}
+.blog-list > li .image-holder img {
+	max-width: 100% !important;
+	width: 100%;
+	vertical-align: middle;
+}
+.blog-list > li h2 {
+	font-size: 14px !important;
+}
+#blog-index .content-holder {
+	margin: 0;
+	width: 100%;
+	float: left;
+	padding: 6px 0 0px;
+	height: 52px;
+	overflow: hidden;
+}
+#blog-index .ui-listview>li>a.ui-btn {
+	padding-top: 0 !important;
+	padding-bottom: 0px !important;
+	margin-bottom: 10px;
+	border-bottom: 1px solid #c1c1c1;
+}
+.iscroll-scroller+div {
+	width: 0px !important;
+}
+.blog-inside-bg .ui-content {
+	background: #f5f5f5;
+	padding: 30px;
+}
+.blogview {
+	width: 554px;
+	padding: 15px;
+	margin: auto;
+	background: #fff;
+	height: 904px;
+	overflow: auto;
+}
+#blog-index {
+	background: #f5f5f5;
+	padding-bottom: 0px !important;
+	min-height: 0px !important;
+}
+.ui-header .ui-btn-left {
+	margin-left: 9em;
+}
+.header.ui-header-fixed.ui-fixed-hidden a.ui-btn-left, .header.ui-header-fixed.ui-fixed-hidden a.ui-btn-right {
+	margin-top: 20px ;
+}
+.header a.ui-btn-left, .header a.ui-btn-right {
+	margin-top: 20px ;
+}
+#blog-inside .ui-header .ui-btn-left {
+	margin-left: 0;
+}
+#find-search-03 .ui-header .ui-btn-left {
+	margin-left: 9em;
+}
+#find-search-02 {
+	padding-bottom: 0 !important;
+	min-height: 939px !important;
+}
+#find-search-02 .ui-content+.ui-content {
+	background: #f5f5f5;
+	height: 720px;
+}
+#find-search-02 .ui-content+.ui-content .location-search-list {
+	width: 520px;
+	margin: auto;
+}
+#find-search-03 {
+	padding-bottom: 0 !important;
+	min-height: 849px !important;
+}
+#find-search-03 .ui-content {
+	background: #f5f5f5;
+}
+#find-search-03 .ui-content .bio-content {
+	height: 735px;
+	width: 600px;
+	overflow: auto;
+	margin: auto;
+	padding: 15px;
+	box-sizing: border-box;
+	background: #fff;
+	float: none;
+}
+.header {
+	width: 100%;
+	padding-left: 7em;
+	box-sizing: border-box;
+}
+.header.scrollheader {
+/*	height: 174px !important;*/
+}
+.header-inside {
+	height: 70px;
+}
+#blog-inside .ui-header .ui-btn-left {
+	margin-left: 9em;
+}
+#youthandadultspopup-popup {
+	top: 75% !important;
+	left: 7em !important;
+}
+#youthandadultspopup-popup.ui-popup-container .ui-content {
+	width: 100%;
+}
+.ui-page-header-fixed {
+	padding-bottom: 0px !important;
+}
+#navpanel1-a, #navpanel1-b, #navpanel11-a, #navpanel3-a, #navpanel3-b, #navpanel3-c, #navpanel14-a, #navpanel9-a {
+	position: fixed;
+	background: #000;
+	display: block;
+}
+#setreminder .ui-content, #reminderlist .ui-content {
+	padding: 30px 0 0 7em;
+	background: #f5f5f5;
+}
+#reminderlist ul#reminderlistview, .setreminder-content-wrap, .popup-content-wrap {
+	width: 520px;
+	padding: 15px;
+	background: #fff;
+	box-sizing: border-box;
+	margin: auto;
+	height: 935px;
+	overflow: auto;
+}
+#poster .ui-panel-wrapper {
+	padding: 30px 0 0 7em;
+	/*background: #f5f5f5;*/
+	box-sizing: border-box;
+}
+.track-wrapper.ui-content {
+	padding: 15px;
+	width: 520px;
+	margin: auto;
+	background: #fff;
+/*	max-height: 792px;*/
+	overflow: auto;
+}
+#poster.ui-page {
+	min-height: 852px !important;
+}
+#setting-chiro-page .ui-header {
+	width: 100%;
+	box-sizing: border-box;
+	margin: auto;
+	padding-left: 7em;
+}
+#setting-chiro-page .ui-content {
+	padding-left: 7em;
+	padding-top: 25%;
+}
+#setting-chiro-page .chiro-code {
+	width: 520px;
+	margin: auto;
+}
+.know-inside-bg {
+	padding-bottom: 0px !important;
+}
+.know-inside-bg .text-content.ui-content {
+	min-height: 500px;
+	padding: 30px 0 0 0 !important;
+	background: #f5f5f5;
+	text-align: left;
+}
+.knowyourbackview {
+	width: 520px;
+	margin: auto;
+	padding: 15px;
+	box-sizing: border-box;
+	background: #fff;
+	max-height: 932px;
+	overflow: auto;
+}
+.know-inside-bg .content-inside.know-inside-content {
+	width: 100%;
+	background: #f5f5f5;
+	height: 964px;
+}
+#findachirofrom .location-search .ui-input-text {
+	width: 75%;
+}
+#reminderlist ul#reminderlistview li {
+	padding: 1em 5px;
+}
+#savetrackinfo .ui-content {
+	padding: 30px 0 0 7em;
+	background: #f5f5f5;
+	height: 935px;
+	margin:0 auto !important;
+}
+#savetrackinfo .ui-content .setreminder-content-wrap {
+	height: auto;
+}
+#blog-inside {
+	padding-bottom: 0 !important;
+}
+#playallvideo-page .ui-content {
+	padding: 0;
+}
+.excercises-inside-bg .ui-content {
+	height: 964px;
+	background: #f5f5f5;
+	padding: 20px 0 0 7em !important;
+}
+.popup-content-wrap {
+	height: auto;
+    margin-left: -4% !important;
+}
+/* 19 Sep 2014 */
+#info-intro-video {
+	min-height: 965px !important;
+}
+#playallvideo-page .playallvideoid, #info-intro-video .infointroplayvideoid, #intro-video #introplayvideoid {
+	height: 965px;
+	padding-top: 0;
+}
+.video-player video{
+    height:656px !important;
+    background: #FFF !important;
+}
+/*#info-intro-video .ui-header .ui-btn-left {
+	margin-left: 0;
+}*/
+#setreminder .ui-footer-fixed {
+	width: 100%;
+	padding: 0px 0px 0px 7em;
+	box-sizing: border-box;
+	margin: auto;
+	background: none;
+}
+/*#setreminder .settings-item {
+	text-align: center;
+	width: 520px;
+	margin: auto;
+	box-sizing: border-box;
+}*/
+
+/* 20 Sep 2014 */
+#intro-landing-page-a .chiro-code {
+	padding-top: 22%;
+}
+#intro-landing-page-b video#introplayvideoid {
+	width: 100%;
+	height: 930px;
+}
+#intro-landing-page-c .chiro-code {
+	padding-top: 15%;
+}
+#intro-landing-page-b .dot-wrap > a {
+	display: none;
+}
+#intro-landing-page-b h1+a.next-bt {
+	display: block;
+}
+#poster .ui-panel-wrapper h3 {
+	padding-top: 0px;
+}
+
+
+.ui-header-fixed{ padding-top:0px}
+.ui-panel-closed{ clip:rect(auto, auto, auto, auto);}
+
+div [role="main"], 
+#poster .ui-panel-wrapper, 
+#know div[role="main"],
+#find .ui-content,
+#blog-index .ui-panel-wrapper,
+#blog-inside .ui-panel-wrapper,
+.connect-info{ 
+	margin:0 auto; margin-left:7em;
+}
+#savetrackinfo .ui-content,
+#setreminder .ui-content, #reminderlist .ui-content,
+.blog-inside-bg .ui-content{
+	margin:0 auto !important;
+}
+.blog-content table{
+	width:97% !important;
+}
+#introvideomainid, .chiro-code {
+    margin-left:-8% !important;
+}
+
+#intro-landing-page-a .langstrupcancls, #intro-landing-page-b .introtitle {
+    margin-left:1% !important;
+}
+
+}
+
+@media (min-width:1324px) {
+.bg-image-ipad img.iPad-potrait {
+	display: none;
+}
+.bg-image-ipad img.iPad-landscape {
+	display: block;
+}
+.ui-panel-wrapper {
+	padding-top: 30px;
+}
+.ui-mobile .ui-page {
+	padding-bottom: 0px !important; /*background:#f5f5f5;*/
+	/*min-height: 596px !important;*/
+}
+.seasonal-home-banner {
+	height: 768px;
+}
+
+.logo-bottom {
+	position: absolute;
+	z-index: 2;
+	bottom: 225px;
+	text-align: center;
+	width: 100%;
+	text-decoration: none;
+}
+.banner-quotes {
+	margin-top: 23%;
+	width: 35%;
+}
+#landing-page, #intro-landing-page-a, #intro-landing-page-c, #setting-chiro-page {
+	background: url(../images/ipadL-index-bg.jpg) no-repeat top center;
+	min-height: 713px !important;
+	height:100%;
+}
+.ui-panel-wrapper .ui-content {
+	width: 600px;
+	margin: auto;
+}
+.infointroplayvideoid, .playallvideoid {
+	padding-top: 0;
+}
+#settings-page {
+	min-height: 708px;
+}
+#excercises .ui-content {
+	overflow: hidden;
+}
+#excercises .ui-panel-wrapper .ui-content {
+	min-height: 550px;
+	padding-top: 0px;
+}
+#excercises .ui-listview > li {
+	display: inline-block;
+	float: none;
+	width: 31.33%;
+	margin: .23em !important;
+}
+#excercises-inside .ui-mobile .ui-page {
+	background: none;
+}
+#excercises-inside {
+	background: url(../images/ipadL-exercises-banner.jpg) no-repeat top center;
+	background-size: 100% auto;
+}
+.excercise-content {
+	background: #fff;
+}
+#exercisesinsidedivid {
+	width: 526px;
+	padding: 15px;
+	background: #FFF;
+	margin: auto;
+	min-height: 662px;
+}
+#about-index {
+	min-height: 600px !important;
+}
+#about-index .header {
+	background: url(../images/ipadL-about-banner.jpg) no-repeat top center;
+	background-size: 100% auto;
+}
+#about-index .ui-content {
+	margin-top: 0px;
+	height: 574px;
+	overflow: auto;
+}
+#blog-index .ui-panel-wrapper {
+	padding-top: 0px;
+}
+#blog-index .ui-panel-wrapper .iscroll-wrapper {
+	min-height: 574px;
+}
+.track-wrapper.ui-content {
+	max-width: 584px;
+	margin: auto;
+}
+.jqm-cal-wrapper {
+	width: 52%;
+	float: left;
+	background: #FFF;
+}
+.track-wrapper #container {
+	width: 100%;
+	float: left;
+	margin-top: 30px !important;
+}
+.track-wrapper h3.padding {
+	width: 100%;
+	box-sizing: border-box;
+	padding-left: 56%;
+}
+.track-wrapper .settings-item {
+	margin-left: 56%;
+	position: relative;
+	border-bottom: 1px solid #c1c1c1;
+}
+.track-wrapper .settings-item span {
+	position: absolute;
+	top: 6px;
+	right: 10px;
+}
+#setreminder .ui-content .settings-item:last-child {
+	border-bottom: 1px solid #c1c1c1;
+}
+#settings-page .ui-content, #track .ui-panel-wrapper {
+	min-height: 694px;
+}
+#find .ui-panel-wrapper {
+	padding-top: 10px;
+	height: auto;
+}
+.find-inside-bg .header-inside {
+	background: url(../images/ipadL-find-chiro-banner.jpg) no-repeat top center;
+	background-size: 100% auto;
+}
+.find-inside-bg .ui-panel-wrapper {
+	background: #f5f5f5;
+	padding-top: 12px;
+}
+.map-area.ui-content {
+	max-width: 100%;
+}
+.find-inside-bg .ui-content.ui-body-a {
+	min-height: 434px;
+	margin-top: 30px;
+	background: #fff;
+}
+#settings-page .ui-content {
+	padding-top: 0;
+	margin-top: 0px;
+}
+#know .ui-panel-wrapper {
+	background: #f5f5f5;
+}
+#know .header, .know-inside-bg.ui-page {
+	background: url(../images/ipadL-know-your-banner.jpg) no-repeat top center;
+	background-size: 100% auto;
+}
+.know-inside-bg .ui-panel-wrapper {
+	background: #e0f2ff;
+	padding-top: 0;
+	margin-top: 30px;
+}
+.know-inside-bg .content-inside {
+	background: none;
+	text-align: center;
+}
+.back-image img {
+	width: 80%;
+	height: auto;
+}
+#hand {
+	margin-top: 7.444%;
+	right: 63.821%;
+}
+#neck {
+	margin-top: 22.444%;
+	right: 55.821%;
+}
+#shoulder {
+	margin-top: 35.444%;
+	right: 61.821%;
+}
+#backtop {
+	margin-top: 47.444%;
+	right: 35.821%;
+}
+#backbottom {
+	margin-top: 75.444%;
+	right: 34.821%;
+}
+#side {
+	margin-top: 89.444%;
+	right: 53.821%;
+}
+.know-your-back-wrapper {
+	height: 678px;
+}
+#find {
+	min-height: 595px !important;
+}
+#know {
+	background: #f5f5f5;
+	padding-bottom: 0px !important;
+	min-height: 595px !important;
+}
+#find-search-02 .ui-panel-wrapper {
+	padding-top: 0px;
+}
+#find-search-02 .ui-content+.ui-content {
+	height: 436px;
+}
+#find-search-03 .ui-content .bio-content {
+	height: 467px;
+}
+#excercises .ui-content ul.excercise-list {
+	height: 454px;
+}
+.know-inside-bg .content-inside.know-inside-content {
+	height: 678px;
+}
+#savetrackinfo .ui-content {
+	height: 679px;
+}
+.blogview {
+	height: 648px;
+}
+#playallvideo-page .playallvideoid, #info-intro-video .infointroplayvideoid, #intro-video #introplayvideoid {
+	height: 709px;
+	padding-top: 0;
+}
+/* 20 Sep 2014 */
+#intro-landing-page-a .chiro-code {
+	padding-top: 0;
+}
+#intro-landing-page-b video#introplayvideoid {
+	width: 100%;
+	height: 695px;
+}
+#intro-landing-page-c .chiro-code {
+	padding-top: 0;
+}
+.excercises-inside-bg .ui-content {
+	height: 708px;
+}
+}
+
+@media all and (max-width:370px) {
+#settings-page .ui-panel-wrapper, #know .ui-panel-wrapper {
+	background: #f5f5f5;
+}
+/*#excercises-inside .video-content.defaultshow {background:#000; text-align:center;}
+.excercise-content .video-content video {width:70%; height:222px;}*/
+
+}
+
+/*@media only screen 
+  and (min-device-width: 720px) 
+  and (max-device-width: 1280px) {
+	  #hand{
+		margin-top: 17.444%;
+		right: 63.821%;
+	  }
+	  #neck {
+		margin-top: 33%;
+		right: 55%;
+	}
+	#shoulder {
+		margin-top: 46%;
+		right: 61%;
+	}
+	#backtop {
+		margin-top: 61%;
+		right: 31%;
+	}
+	#backbottom {
+		margin-top: 95%;
+		right: 29%;
+	}
+	#side {
+		margin-top: 114%;
+		right: 52%;
+	}
+}*/
